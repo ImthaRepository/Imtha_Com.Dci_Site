@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Functional Test">
+	<listeners>
+	<listener class-name="Utilities.Report_Generation"/>
+</listeners>
+	<parameter name="browser" value="chrome"/>	
+  <test thread-count="5" name="DCI Webpage Testing">
+    <classes>
+      <class name="Home_Page_Menu.Header_Menu_Header"/>
+      <class name="Form_Filling_Test.Forms_Validation"/>
+      <class name="Home_Page_Menu.Header_About_Us_SubMenu"/>
+      <class name="Home_Page_Menu.Social_Media_Icons_Footer"/>
+      <class name="Home_Page_Menu.Header_Resource_Submenu"/>
+      <class name="Home_Page_Menu.Header_Services_Submenu"/>
+      <class name="Home_Page_Menu.Home_Page_Footer_Menu"/>
+      <class name="Home_Page_Menu.Services_MobileAppDevelopmentMenu"/>
+      
+      
+    </classes>
+  </test> <!-- DCI Webpage Testing -->
+</suite> <!-- Functional Test -->

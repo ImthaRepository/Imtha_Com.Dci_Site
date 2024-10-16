@@ -1,0 +1,2061 @@
+2024-07-17 17:13:21,537 [main] INFO Menu_Functionalities - URL Entered
+2024-07-17 17:13:21,890 [main] INFO Menu_Functionalities - LOGO Validated
+2024-07-17 17:22:47,426 [main] INFO Menu_Functionalities - URL Entered
+2024-07-17 17:22:47,735 [main] INFO Menu_Functionalities - LOGO Validated
+2024-07-17 17:26:52,964 [main] INFO Menu_Functionalities - URL Entered
+2024-07-17 17:27:02,705 [main] INFO Menu_Functionalities - URL Entered
+2024-07-17 17:27:03,047 [main] INFO Menu_Functionalities - LOGO Validated
+2024-09-16 11:06:56,780 [main] INFO Login Validation - URL Entered
+2024-09-16 11:06:57,567 [main] INFO Login Validation - LOGO Validated
+2024-09-16 11:06:57,804 [main] INFO Login Validation - URL Entered
+2024-09-16 11:06:58,083 [main] INFO Login Validation - Home Menu Validated
+2024-09-16 11:06:58,292 [main] INFO Login Validation - URL Entered
+2024-09-16 11:07:19,479 [main] INFO Login Validation - About Us Menu Validated
+2024-09-16 11:07:20,554 [main] INFO Login Validation - URL Entered
+2024-09-16 11:07:21,820 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-16 11:07:22,107 [main] INFO Login Validation - URL Entered
+2024-09-16 11:07:23,138 [main] INFO Login Validation - Contact Menu Validated
+2024-09-16 11:07:43,308 [main] INFO Login Validation - URL Entered
+2024-09-16 11:07:44,477 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-16 11:08:05,351 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:06,127 [main] INFO Login Validation - Blog Menu Validated
+2024-09-16 11:08:06,396 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:11,968 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-16 11:08:14,836 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:15,453 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:15,578 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-16 11:08:15,799 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:16,323 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:16,347 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-16 11:08:16,575 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:17,642 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:17,755 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-16 11:08:17,792 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:18,428 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:18,513 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-16 11:08:18,766 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:19,778 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:19,793 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-16 11:08:20,010 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:20,488 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:20,558 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-16 11:08:20,826 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:23,474 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:23,596 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-16 11:08:23,838 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:24,629 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:24,647 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-16 11:08:24,874 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:26,335 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:26,398 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-16 11:08:26,619 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:27,130 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:27,151 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-16 11:08:27,393 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:30,007 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:30,081 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-16 11:08:30,316 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:30,795 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:30,866 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-16 11:08:31,108 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:33,616 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:33,682 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-16 11:08:33,717 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:36,362 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:36,442 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-16 11:08:36,669 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:37,164 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:08:37,231 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-16 11:08:40,514 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:49,515 [main] INFO Login Validation - open chat Clicked
+2024-09-16 11:08:53,619 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-16 11:08:53,761 [main] INFO Login Validation - URL Entered
+2024-09-16 11:08:57,746 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-16 11:08:58,460 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:03,583 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:07,116 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-16 11:09:07,939 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:12,372 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-16 11:09:13,247 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:17,018 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-16 11:09:17,896 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:20,591 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-16 11:09:45,378 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:45,623 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 11:09:47,068 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:09:47,097 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-16 11:09:47,131 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:48,328 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 11:09:49,548 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:09:49,583 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-16 11:09:49,898 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:50,499 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 11:09:51,257 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:09:51,287 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-16 11:09:51,584 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:52,199 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 11:09:53,216 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:09:53,282 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-16 11:09:53,655 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:54,326 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 11:09:55,124 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:09:55,184 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-16 11:09:59,295 [main] INFO Login Validation - URL Entered
+2024-09-16 11:09:59,547 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:00,993 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:01,132 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-16 11:10:01,452 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:01,725 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:04,511 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:04,577 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-16 11:10:05,020 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:05,782 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:06,613 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:06,647 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-16 11:10:06,903 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:07,388 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:08,855 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:08,927 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-16 11:10:09,164 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:09,694 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:09,815 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:09,820 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-16 11:10:10,080 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:10,588 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:11,747 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:11,838 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-16 11:10:12,272 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:12,845 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:14,396 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:14,418 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-16 11:10:14,457 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:15,327 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:17,469 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:17,491 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-16 11:10:17,548 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:18,208 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:19,779 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:19,833 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-16 11:10:20,063 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:20,574 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:21,190 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:21,268 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-16 11:10:23,977 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:25,074 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-16 11:10:25,331 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:25,974 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-16 11:10:26,198 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:26,796 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-16 11:10:27,019 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:27,711 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-16 11:10:27,974 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:28,758 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-16 11:10:28,970 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:29,565 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-16 11:10:32,220 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:32,416 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:32,589 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:10:33,392 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:34,917 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-16 11:10:35,152 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:35,881 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:36,301 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:10:37,187 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:37,310 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-16 11:10:37,544 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:38,048 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:38,328 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:10:53,702 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:53,799 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-16 11:10:54,025 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:54,202 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:54,795 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:10:55,618 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:55,693 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-16 11:10:55,909 [main] INFO Login Validation - URL Entered
+2024-09-16 11:10:56,398 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:10:56,830 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:10:59,679 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:10:59,753 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-16 11:10:59,979 [main] INFO Login Validation - URL Entered
+2024-09-16 11:11:00,491 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:11:00,950 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:11:01,566 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:11:01,631 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-16 11:11:01,861 [main] INFO Login Validation - URL Entered
+2024-09-16 11:11:02,324 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 11:11:02,556 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 11:11:05,779 [main] INFO Login Validation - Submenu clicked
+2024-09-16 11:11:06,034 [main] INFO Login Validation - Windows Application Development Sub Menu Validated
+2024-09-16 11:58:10,669 [main] INFO Login Validation - URL Entered
+2024-09-16 11:58:13,228 [main] INFO Login Validation - URL Entered
+2024-09-16 11:58:15,551 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:06,065 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:06,419 [main] INFO Login Validation - LOGO Validated
+2024-09-16 12:40:06,652 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:06,963 [main] INFO Login Validation - Home Menu Validated
+2024-09-16 12:40:07,169 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:07,889 [main] INFO Login Validation - About Us Menu Validated
+2024-09-16 12:40:08,135 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:09,358 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-16 12:40:09,613 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:10,542 [main] INFO Login Validation - Contact Menu Validated
+2024-09-16 12:40:10,589 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:11,632 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-16 12:40:11,850 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:12,630 [main] INFO Login Validation - Blog Menu Validated
+2024-09-16 12:40:12,890 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:18,206 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-16 12:40:26,716 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:26,910 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:27,741 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:27,828 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-16 12:40:27,858 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:28,273 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:29,796 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:29,816 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-16 12:40:29,852 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:30,576 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:31,240 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:31,262 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-16 12:40:31,353 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:32,061 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:32,950 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:33,043 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-16 12:40:33,093 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:33,777 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:33,932 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:33,936 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-16 12:40:34,216 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:34,684 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:35,408 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:35,475 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-16 12:40:35,720 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:36,214 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:37,061 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:37,084 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-16 12:40:37,121 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:37,804 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:38,591 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:38,621 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-16 12:40:38,881 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:39,397 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:40,109 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:40,190 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-16 12:40:40,441 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:40,939 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:40:41,675 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:40:41,771 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-16 12:40:44,064 [main] INFO Login Validation - URL Entered
+2024-09-16 12:40:54,828 [main] INFO Login Validation - open chat Clicked
+2024-09-16 12:40:58,619 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-16 12:40:58,827 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:02,853 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-16 12:41:03,557 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:08,109 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-16 12:41:08,802 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:12,117 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-16 12:41:12,844 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:20,662 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-16 12:41:21,586 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:25,124 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-16 12:41:26,077 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:28,535 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-16 12:41:32,032 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:32,911 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:32,985 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-16 12:41:33,205 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:33,725 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:33,753 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-16 12:41:33,976 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:34,426 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:34,526 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-16 12:41:34,748 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:35,237 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:35,305 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-16 12:41:35,536 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:36,057 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:36,076 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-16 12:41:36,300 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:36,786 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:36,870 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-16 12:41:37,188 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:37,848 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:37,933 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-16 12:41:38,165 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:38,682 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:38,714 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-16 12:41:38,942 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:39,496 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:39,595 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-16 12:41:39,819 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:40,323 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:40,342 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-16 12:41:40,368 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:41,163 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:41,248 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-16 12:41:41,487 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:42,563 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:42,627 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-16 12:41:42,856 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:43,354 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:43,418 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-16 12:41:43,647 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:44,115 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:44,185 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-16 12:41:44,415 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:44,867 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:44,939 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-16 12:41:47,897 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:48,907 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-16 12:41:48,979 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:49,875 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-16 12:41:50,096 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:50,637 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-16 12:41:50,872 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:51,611 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-16 12:41:51,638 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:52,608 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-16 12:41:52,870 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:53,534 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-16 12:41:58,477 [main] INFO Login Validation - URL Entered
+2024-09-16 12:41:58,808 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 12:41:59,729 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:41:59,797 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-16 12:42:00,274 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:00,462 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 12:42:01,941 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:01,982 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-16 12:42:02,386 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:02,987 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 12:42:03,737 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:03,774 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-16 12:42:04,059 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:04,543 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 12:42:05,238 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:05,290 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-16 12:42:05,811 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:06,304 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-16 12:42:06,963 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:06,999 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-16 12:42:10,404 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:10,603 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:10,781 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:11,554 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:13,073 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-16 12:42:13,286 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:13,479 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:14,373 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:17,746 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:17,852 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-16 12:42:17,878 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:18,583 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:18,851 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:31,915 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:32,013 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-16 12:42:32,043 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:32,429 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:33,091 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:33,790 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:33,864 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-16 12:42:34,085 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:34,584 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:34,994 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:35,604 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:35,679 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-16 12:42:35,710 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:36,411 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:36,634 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:37,412 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:37,491 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-16 12:42:37,521 [main] INFO Login Validation - URL Entered
+2024-09-16 12:42:38,214 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-16 12:42:38,444 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-16 12:42:39,234 [main] INFO Login Validation - Submenu clicked
+2024-09-16 12:42:39,310 [main] INFO Login Validation - Windows Application Development Sub Menu Validated
+2024-09-16 13:32:18,587 [main] INFO Login Validation - URL Entered
+2024-09-16 13:32:20,765 [main] INFO Login Validation - Name Field Validated
+2024-09-16 13:32:21,563 [main] INFO Login Validation - Email Field Validated
+2024-09-16 13:32:22,400 [main] INFO Login Validation - Company Name Validated
+2024-09-16 13:32:31,281 [main] INFO Login Validation - Select Interest is Validated
+2024-09-16 13:32:34,637 [main] INFO Login Validation - Budget Field is Validated
+2024-09-16 13:32:35,223 [main] INFO Login Validation - Requirement Field is validated
+2024-09-16 13:32:35,229 [main] INFO Login Validation - Contact form Validated
+2024-09-16 13:32:35,936 [main] INFO Login Validation - URL Entered
+2024-09-16 13:32:38,456 [main] INFO Login Validation - Name Field Validated
+2024-09-16 13:32:39,428 [main] INFO Login Validation - Email Field Validated
+2024-09-16 13:32:40,067 [main] INFO Login Validation - Company Name Field Validated
+2024-09-16 13:32:48,497 [main] INFO Login Validation - Select Interest is Validated
+2024-09-16 13:32:50,755 [main] INFO Login Validation - Budget Field is Validated
+2024-09-16 13:32:51,022 [main] INFO Login Validation - Requirement Field is validated
+2024-09-16 13:32:51,075 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-16 13:32:51,407 [main] INFO Login Validation - URL Entered
+2024-09-16 13:32:52,555 [main] INFO Login Validation - Name Field Validated
+2024-09-16 13:32:53,248 [main] INFO Login Validation - Email Field Validated
+2024-09-16 13:33:01,163 [main] INFO Login Validation - Select Interest is Validated
+2024-09-16 13:33:04,636 [main] INFO Login Validation - Budget Field is Validated
+2024-09-16 13:33:05,026 [main] INFO Login Validation - Requirement Field is validated
+2024-09-16 13:33:05,035 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-16 13:33:05,354 [main] INFO Login Validation - URL Entered
+2024-09-16 13:33:07,431 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-16 13:33:10,691 [main] INFO Login Validation - Name Field Validated
+2024-09-16 13:33:11,700 [main] INFO Login Validation - Email Field Validated
+2024-09-16 13:33:13,355 [main] INFO Login Validation - phone number field validated
+2024-09-16 13:33:19,846 [main] INFO Login Validation - Select Post is Validated
+2024-09-16 13:33:21,566 [main] INFO Login Validation - Location Field is Validated
+2024-09-16 13:33:24,933 [main] INFO Login Validation - Search Engine Field is Validated
+2024-09-16 13:33:26,227 [main] INFO Login Validation - Gender Field Vaidated
+2024-09-16 13:33:45,152 [main] INFO Login Validation - Year of Experience Field is Validated
+2024-09-16 13:33:49,192 [main] INFO Login Validation - Month of experience Field is Validated
+2024-09-16 13:33:49,319 [main] INFO Login Validation - Highest Qualification field is validated
+2024-09-16 13:33:49,628 [main] INFO Login Validation - Key Skills field is validated
+2024-09-16 13:33:49,753 [main] INFO Login Validation - Current Designation field is validated
+2024-09-16 13:33:49,923 [main] INFO Login Validation - Current Location Field is validated
+2024-09-16 13:33:49,927 [main] INFO Login Validation - Job Allication Form Validated
+2024-09-16 13:33:50,648 [main] INFO Login Validation - URL Entered
+2024-09-16 13:33:57,469 [main] INFO Login Validation - Moved to Home Element
+2024-09-16 13:33:58,361 [main] INFO Login Validation - Online is Clicked
+2024-09-16 13:33:58,675 [main] INFO Login Validation - Moved to Home Element
+2024-09-16 13:33:58,890 [main] INFO Login Validation - Name Field Validated
+2024-09-16 13:33:59,314 [main] INFO Login Validation - Email Field Validated
+2024-09-16 13:33:59,739 [main] INFO Login Validation - Phone Field Validated
+2024-09-16 13:34:06,850 [main] INFO Login Validation - Requirement field Validated
+2024-09-16 13:34:07,502 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-16 13:34:07,507 [main] INFO Login Validation - Send Message form Validated
+2024-09-16 13:34:08,216 [main] INFO Login Validation - URL Entered
+2024-09-16 13:34:09,411 [main] INFO Login Validation - Submenu clicked
+2024-09-16 13:34:11,527 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-16 13:34:14,781 [main] INFO Login Validation - Number of employees is Validated
+2024-09-16 13:34:17,646 [main] INFO Login Validation - Company Type is Validated
+2024-09-16 13:34:20,475 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-16 13:34:35,998 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-16 13:34:36,136 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-16 13:34:37,302 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-16 13:34:37,520 [main] INFO Login Validation - Address Field Validated
+2024-09-16 13:34:37,652 [main] INFO Login Validation - City Field Validated
+2024-09-16 13:34:37,790 [main] INFO Login Validation - Website Field Validated
+2024-09-16 13:34:37,950 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-16 13:34:38,077 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-16 13:34:38,222 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-16 13:34:38,377 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-16 13:34:38,535 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-16 13:34:38,709 [main] INFO Login Validation - Email field Field Validated
+2024-09-16 13:34:38,887 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-16 13:34:39,048 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-16 13:34:39,167 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-16 13:34:39,328 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-16 13:34:39,614 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-16 13:34:39,617 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-17 10:09:59,430 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:00,447 [main] INFO Login Validation - LOGO Validated
+2024-09-17 10:10:00,682 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:00,959 [main] INFO Login Validation - Home Menu Validated
+2024-09-17 10:10:01,169 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:01,971 [main] INFO Login Validation - About Us Menu Validated
+2024-09-17 10:10:02,197 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:03,439 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-17 10:10:03,698 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:04,289 [main] INFO Login Validation - Contact Menu Validated
+2024-09-17 10:10:04,520 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:05,313 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-17 10:10:05,561 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:06,223 [main] INFO Login Validation - Blog Menu Validated
+2024-09-17 10:10:06,492 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:12,175 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-17 10:10:37,538 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:39,608 [main] INFO Login Validation - Name Field Validated
+2024-09-17 10:10:40,471 [main] INFO Login Validation - Email Field Validated
+2024-09-17 10:10:40,834 [main] INFO Login Validation - Company Name Validated
+2024-09-17 10:10:49,854 [main] INFO Login Validation - Select Interest is Validated
+2024-09-17 10:10:53,167 [main] INFO Login Validation - Budget Field is Validated
+2024-09-17 10:10:53,505 [main] INFO Login Validation - Requirement Field is validated
+2024-09-17 10:10:53,510 [main] INFO Login Validation - Contact form Validated
+2024-09-17 10:10:53,584 [main] INFO Login Validation - URL Entered
+2024-09-17 10:10:56,091 [main] INFO Login Validation - Name Field Validated
+2024-09-17 10:10:57,531 [main] INFO Login Validation - Email Field Validated
+2024-09-17 10:10:58,633 [main] INFO Login Validation - Company Name Field Validated
+2024-09-17 10:11:06,365 [main] INFO Login Validation - Select Interest is Validated
+2024-09-17 10:11:08,646 [main] INFO Login Validation - Budget Field is Validated
+2024-09-17 10:11:08,933 [main] INFO Login Validation - Requirement Field is validated
+2024-09-17 10:11:08,981 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-17 10:11:09,224 [main] INFO Login Validation - URL Entered
+2024-09-17 10:11:10,375 [main] INFO Login Validation - Name Field Validated
+2024-09-17 10:11:11,104 [main] INFO Login Validation - Email Field Validated
+2024-09-17 10:11:19,561 [main] INFO Login Validation - Select Interest is Validated
+2024-09-17 10:11:23,102 [main] INFO Login Validation - Budget Field is Validated
+2024-09-17 10:11:23,715 [main] INFO Login Validation - Requirement Field is validated
+2024-09-17 10:11:23,721 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-17 10:11:24,021 [main] INFO Login Validation - URL Entered
+2024-09-17 10:11:26,102 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-17 10:11:29,333 [main] INFO Login Validation - Name Field Validated
+2024-09-17 10:11:30,180 [main] INFO Login Validation - Email Field Validated
+2024-09-17 10:11:31,982 [main] INFO Login Validation - phone number field validated
+2024-09-17 10:11:38,513 [main] INFO Login Validation - Select Post is Validated
+2024-09-17 10:11:40,254 [main] INFO Login Validation - Location Field is Validated
+2024-09-17 10:11:43,663 [main] INFO Login Validation - Search Engine Field is Validated
+2024-09-17 10:11:45,025 [main] INFO Login Validation - Gender Field Vaidated
+2024-09-17 10:12:04,170 [main] INFO Login Validation - Year of Experience Field is Validated
+2024-09-17 10:12:08,188 [main] INFO Login Validation - Month of experience Field is Validated
+2024-09-17 10:12:08,325 [main] INFO Login Validation - Highest Qualification field is validated
+2024-09-17 10:12:08,664 [main] INFO Login Validation - Key Skills field is validated
+2024-09-17 10:12:08,783 [main] INFO Login Validation - Current Designation field is validated
+2024-09-17 10:12:08,897 [main] INFO Login Validation - Current Location Field is validated
+2024-09-17 10:12:08,900 [main] INFO Login Validation - Job Allication Form Validated
+2024-09-17 10:12:09,560 [main] INFO Login Validation - URL Entered
+2024-09-17 10:12:16,467 [main] INFO Login Validation - Moved to Home Element
+2024-09-17 10:12:17,389 [main] INFO Login Validation - Online is Clicked
+2024-09-17 10:12:17,686 [main] INFO Login Validation - Moved to Home Element
+2024-09-17 10:12:17,964 [main] INFO Login Validation - Name Field Validated
+2024-09-17 10:12:18,315 [main] INFO Login Validation - Email Field Validated
+2024-09-17 10:12:18,745 [main] INFO Login Validation - Phone Field Validated
+2024-09-17 10:12:26,048 [main] INFO Login Validation - Requirement field Validated
+2024-09-17 10:12:26,644 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-17 10:12:26,648 [main] INFO Login Validation - Send Message form Validated
+2024-09-17 10:12:27,240 [main] INFO Login Validation - URL Entered
+2024-09-17 10:12:28,578 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:12:30,701 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-17 10:12:34,359 [main] INFO Login Validation - Number of employees is Validated
+2024-09-17 10:12:37,220 [main] INFO Login Validation - Company Type is Validated
+2024-09-17 10:12:40,074 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-17 10:12:56,094 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-17 10:12:56,263 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-17 10:12:57,468 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-17 10:12:57,728 [main] INFO Login Validation - Address Field Validated
+2024-09-17 10:12:57,860 [main] INFO Login Validation - City Field Validated
+2024-09-17 10:12:57,994 [main] INFO Login Validation - Website Field Validated
+2024-09-17 10:12:58,168 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-17 10:12:58,338 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-17 10:12:58,464 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-17 10:12:58,602 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-17 10:12:58,740 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-17 10:12:58,893 [main] INFO Login Validation - Email field Field Validated
+2024-09-17 10:12:59,104 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-17 10:12:59,225 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-17 10:12:59,339 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-17 10:12:59,506 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-17 10:12:59,850 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-17 10:12:59,853 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-17 10:13:06,207 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:06,448 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:07,457 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:07,534 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-17 10:13:07,736 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:07,927 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:09,659 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:09,680 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-17 10:13:09,917 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:15,569 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:16,870 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:16,888 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-17 10:13:17,136 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:17,757 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:18,518 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:18,602 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-17 10:13:18,854 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:19,458 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:19,609 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:19,612 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-17 10:13:19,913 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:20,524 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:21,716 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:21,779 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-17 10:13:22,004 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:22,614 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:23,870 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:23,949 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-17 10:13:24,212 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:24,895 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:25,613 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:25,645 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-17 10:13:25,886 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:26,567 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:27,297 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:27,380 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-17 10:13:27,659 [main] INFO Login Validation - URL Entered
+2024-09-17 10:13:28,349 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:13:29,014 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:13:29,105 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-17 10:14:07,599 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:13,203 [main] INFO Login Validation - open chat Clicked
+2024-09-17 10:14:17,558 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-17 10:14:18,490 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:21,841 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-17 10:14:22,810 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:28,205 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-17 10:14:29,329 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:33,236 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-17 10:14:34,243 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:40,475 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-17 10:14:42,168 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:45,954 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-17 10:14:47,061 [main] INFO Login Validation - URL Entered
+2024-09-17 10:14:49,994 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-17 10:14:59,198 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:00,037 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:00,132 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-17 10:15:00,158 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:00,887 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:00,912 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-17 10:15:01,154 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:01,639 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:01,726 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-17 10:15:01,957 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:02,449 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:02,524 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-17 10:15:02,793 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:03,336 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:03,354 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-17 10:15:03,600 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:04,050 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:04,118 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-17 10:15:04,429 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:05,092 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:05,173 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-17 10:15:05,422 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:05,982 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:06,002 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-17 10:15:06,031 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:06,862 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:06,958 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-17 10:15:07,229 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:07,791 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:07,824 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-17 10:15:08,128 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:10,925 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:11,035 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-17 10:15:11,386 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:11,931 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:12,468 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-17 10:15:13,066 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:13,798 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:13,888 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-17 10:15:14,216 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:14,775 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:14,883 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-17 10:15:15,190 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:15,718 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:15:15,800 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-17 10:15:25,001 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:27,378 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-17 10:15:27,561 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:50,084 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-17 10:15:50,356 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:51,530 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-17 10:15:51,774 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:52,677 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-17 10:15:52,919 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:53,698 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-17 10:15:53,938 [main] INFO Login Validation - URL Entered
+2024-09-17 10:15:54,709 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-17 10:16:02,288 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:02,519 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-17 10:16:03,786 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:03,831 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-17 10:16:04,173 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:04,359 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-17 10:16:05,845 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:05,865 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-17 10:16:06,171 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:13,858 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-17 10:16:14,561 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:14,591 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-17 10:16:14,836 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:15,221 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-17 10:16:16,144 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:16,167 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-17 10:16:16,402 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:16,597 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-17 10:16:17,847 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:17,893 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-17 10:16:21,827 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:22,010 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:22,197 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:23,123 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:24,652 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-17 10:16:24,896 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:25,166 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:26,165 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:28,052 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:28,153 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-17 10:16:28,430 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:29,192 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:29,624 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:43,360 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:43,473 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-17 10:16:43,747 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:43,943 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:45,045 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:45,688 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:45,765 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-17 10:16:46,013 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:46,657 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:46,960 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:47,779 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:47,863 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-17 10:16:48,099 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:48,732 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:49,110 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:49,794 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:49,870 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-17 10:16:50,140 [main] INFO Login Validation - URL Entered
+2024-09-17 10:16:50,782 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-17 10:16:51,070 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-17 10:16:51,904 [main] INFO Login Validation - Submenu clicked
+2024-09-17 10:16:51,978 [main] INFO Login Validation - Windows Application Development Sub Menu Validated
+2024-09-18 10:10:18,574 [main] INFO Login Validation - URL Entered
+2024-09-18 10:11:01,658 [main] INFO Login Validation - LOGO Validated
+2024-09-18 10:11:01,948 [main] INFO Login Validation - URL Entered
+2024-09-18 10:11:02,303 [main] INFO Login Validation - Home Menu Validated
+2024-09-18 10:11:02,576 [main] INFO Login Validation - URL Entered
+2024-09-18 10:11:04,820 [main] INFO Login Validation - About Us Menu Validated
+2024-09-18 10:11:05,028 [main] INFO Login Validation - URL Entered
+2024-09-18 10:11:06,269 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-18 10:11:07,107 [main] INFO Login Validation - URL Entered
+2024-09-18 10:12:12,167 [main] INFO Login Validation - Contact Menu Validated
+2024-09-18 10:12:12,557 [main] INFO Login Validation - URL Entered
+2024-09-18 10:12:13,799 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-18 10:12:14,028 [main] INFO Login Validation - URL Entered
+2024-09-18 10:12:15,378 [main] INFO Login Validation - Blog Menu Validated
+2024-09-18 10:12:15,592 [main] INFO Login Validation - URL Entered
+2024-09-18 10:12:19,828 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-18 10:12:28,465 [main] INFO Login Validation - URL Entered
+2024-09-18 10:12:32,829 [main] INFO Login Validation - Name Field Validated
+2024-09-18 10:12:32,903 [main] INFO Login Validation - Email Field Validated
+2024-09-18 10:12:32,990 [main] INFO Login Validation - Company Name Validated
+2024-09-18 10:12:42,450 [main] INFO Login Validation - Select Interest is Validated
+2024-09-18 10:12:46,525 [main] INFO Login Validation - Budget Field is Validated
+2024-09-18 10:12:46,748 [main] INFO Login Validation - Requirement Field is validated
+2024-09-18 10:12:46,760 [main] INFO Login Validation - Contact form Validated
+2024-09-18 10:12:47,349 [main] INFO Login Validation - URL Entered
+2024-09-18 10:12:49,729 [main] INFO Login Validation - Name Field Validated
+2024-09-18 10:12:49,825 [main] INFO Login Validation - Email Field Validated
+2024-09-18 10:12:49,910 [main] INFO Login Validation - Company Name Field Validated
+2024-09-18 10:13:00,023 [main] INFO Login Validation - Select Interest is Validated
+2024-09-18 10:13:03,042 [main] INFO Login Validation - Budget Field is Validated
+2024-09-18 10:13:03,261 [main] INFO Login Validation - Requirement Field is validated
+2024-09-18 10:13:03,319 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-18 10:13:03,709 [main] INFO Login Validation - URL Entered
+2024-09-18 10:13:04,851 [main] INFO Login Validation - Name Field Validated
+2024-09-18 10:13:04,913 [main] INFO Login Validation - Email Field Validated
+2024-09-18 10:13:14,017 [main] INFO Login Validation - Select Interest is Validated
+2024-09-18 10:13:18,140 [main] INFO Login Validation - Budget Field is Validated
+2024-09-18 10:13:18,340 [main] INFO Login Validation - Requirement Field is validated
+2024-09-18 10:13:18,346 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-18 10:13:18,781 [main] INFO Login Validation - URL Entered
+2024-09-18 10:13:20,838 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-18 10:13:24,241 [main] INFO Login Validation - URL Entered
+2024-09-18 10:13:30,573 [main] INFO Login Validation - Moved to Home Element
+2024-09-18 10:13:31,072 [main] INFO Login Validation - Online is Clicked
+2024-09-18 10:13:31,457 [main] INFO Login Validation - Moved to Home Element
+2024-09-18 10:13:31,571 [main] INFO Login Validation - Name Field Validated
+2024-09-18 10:13:31,676 [main] INFO Login Validation - Email Field Validated
+2024-09-18 10:13:31,784 [main] INFO Login Validation - Phone Field Validated
+2024-09-18 10:13:36,600 [main] INFO Login Validation - Requirement field Validated
+2024-09-18 10:13:37,075 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-18 10:13:37,078 [main] INFO Login Validation - Send Message form Validated
+2024-09-18 10:13:37,521 [main] INFO Login Validation - URL Entered
+2024-09-18 10:13:37,796 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:13:39,918 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-18 10:13:43,311 [main] INFO Login Validation - Number of employees is Validated
+2024-09-18 10:13:47,231 [main] INFO Login Validation - Company Type is Validated
+2024-09-18 10:13:51,026 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-18 10:14:02,903 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-18 10:14:02,957 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-18 10:14:04,034 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-18 10:14:04,165 [main] INFO Login Validation - Address Field Validated
+2024-09-18 10:14:04,226 [main] INFO Login Validation - City Field Validated
+2024-09-18 10:14:04,291 [main] INFO Login Validation - Website Field Validated
+2024-09-18 10:14:04,385 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-18 10:14:04,440 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-18 10:14:04,504 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-18 10:14:04,586 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-18 10:14:04,660 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-18 10:14:04,742 [main] INFO Login Validation - Email field Field Validated
+2024-09-18 10:14:04,823 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-18 10:14:04,887 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-18 10:14:04,947 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-18 10:14:05,036 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-18 10:14:05,214 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-18 10:14:05,220 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-18 10:14:11,999 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:12,192 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:12,232 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:12,963 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-18 10:14:13,203 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:13,389 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:13,472 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:14,509 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-18 10:14:14,760 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:14,928 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:14,972 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:15,484 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-18 10:14:15,744 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:15,899 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:15,946 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:16,560 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-18 10:14:16,781 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:16,937 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:16,986 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:16,997 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-18 10:14:17,275 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:17,448 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:17,479 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:18,055 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-18 10:14:18,291 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:18,473 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:18,520 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:19,037 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-18 10:14:19,287 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:19,461 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:19,545 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:20,582 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-18 10:14:20,867 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:21,031 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:21,082 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:22,258 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-18 10:14:22,529 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:22,691 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-18 10:14:22,756 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:14:23,911 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-18 10:14:29,759 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:40,234 [main] INFO Login Validation - open chat Clicked
+2024-09-18 10:14:43,271 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-18 10:14:45,599 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:48,947 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-18 10:14:49,498 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:51,405 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:54,772 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-18 10:14:55,430 [main] INFO Login Validation - URL Entered
+2024-09-18 10:14:58,890 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-18 10:15:00,946 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:04,637 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-18 10:15:05,201 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:07,804 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-18 10:15:24,396 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:24,450 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:25,240 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-18 10:15:25,542 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:25,612 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:26,140 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-18 10:15:26,392 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:26,482 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:27,104 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-18 10:15:27,362 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:27,398 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:27,970 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-18 10:15:28,153 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:28,194 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:28,720 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-18 10:15:29,036 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:29,097 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:30,217 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-18 10:15:30,544 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:30,611 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:31,742 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-18 10:15:32,050 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:32,096 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:33,130 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-18 10:15:33,469 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:33,506 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:34,192 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-18 10:15:34,617 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:34,660 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:35,191 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-18 10:15:35,445 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:35,495 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:36,114 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-18 10:15:36,348 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:36,395 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:36,979 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-18 10:15:37,290 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:37,354 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:37,971 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-18 10:15:38,221 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:38,272 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:39,395 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-18 10:15:39,732 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:39,768 [main] INFO Login Validation - Submenu clicked
+2024-09-18 10:15:40,331 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-18 10:15:47,297 [main] INFO Login Validation - URL Entered
+2024-09-18 10:15:48,246 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-18 10:15:50,090 [main] INFO Login Validation - URL Entered
+2024-09-18 10:16:32,659 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-18 10:16:32,896 [main] INFO Login Validation - URL Entered
+2024-09-19 09:59:59,675 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:01,469 [main] INFO Login Validation - LOGO Validated
+2024-09-19 10:00:01,965 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:02,549 [main] INFO Login Validation - Home Menu Validated
+2024-09-19 10:00:02,934 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:04,313 [main] INFO Login Validation - About Us Menu Validated
+2024-09-19 10:00:04,657 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:06,975 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-19 10:00:07,524 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:08,582 [main] INFO Login Validation - Contact Menu Validated
+2024-09-19 10:00:08,943 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:10,528 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-19 10:00:10,799 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:11,792 [main] INFO Login Validation - Blog Menu Validated
+2024-09-19 10:00:12,363 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:29,042 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-19 10:00:48,250 [main] INFO Login Validation - URL Entered
+2024-09-19 10:00:51,514 [main] INFO Login Validation - Name Field Validated
+2024-09-19 10:00:52,948 [main] INFO Login Validation - Email Field Validated
+2024-09-19 10:00:56,050 [main] INFO Login Validation - Company Name Validated
+2024-09-19 10:01:04,567 [main] INFO Login Validation - Select Interest is Validated
+2024-09-19 10:01:07,915 [main] INFO Login Validation - Budget Field is Validated
+2024-09-19 10:01:08,666 [main] INFO Login Validation - Requirement Field is validated
+2024-09-19 10:01:08,671 [main] INFO Login Validation - Contact form Validated
+2024-09-19 10:01:09,249 [main] INFO Login Validation - URL Entered
+2024-09-19 10:01:11,732 [main] INFO Login Validation - Name Field Validated
+2024-09-19 10:01:14,181 [main] INFO Login Validation - Email Field Validated
+2024-09-19 10:01:14,680 [main] INFO Login Validation - Company Name Field Validated
+2024-09-19 10:01:22,628 [main] INFO Login Validation - Select Interest is Validated
+2024-09-19 10:01:25,017 [main] INFO Login Validation - Budget Field is Validated
+2024-09-19 10:01:25,395 [main] INFO Login Validation - Requirement Field is validated
+2024-09-19 10:01:25,576 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-19 10:01:26,205 [main] INFO Login Validation - URL Entered
+2024-09-19 10:01:27,571 [main] INFO Login Validation - Name Field Validated
+2024-09-19 10:01:29,646 [main] INFO Login Validation - Email Field Validated
+2024-09-19 10:01:41,055 [main] INFO Login Validation - Select Interest is Validated
+2024-09-19 10:01:45,201 [main] INFO Login Validation - Budget Field is Validated
+2024-09-19 10:01:45,727 [main] INFO Login Validation - Requirement Field is validated
+2024-09-19 10:01:45,731 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-19 10:01:46,139 [main] INFO Login Validation - URL Entered
+2024-09-19 10:01:48,271 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-19 10:01:52,895 [main] INFO Login Validation - Name Field Validated
+2024-09-19 10:02:03,921 [main] INFO Login Validation - Email Field Validated
+2024-09-19 10:02:11,030 [main] INFO Login Validation - phone number field validated
+2024-09-19 10:02:19,474 [main] INFO Login Validation - Select Post is Validated
+2024-09-19 10:02:27,704 [main] INFO Login Validation - Location Field is Validated
+2024-09-19 10:02:39,870 [main] INFO Login Validation - Search Engine Field is Validated
+2024-09-19 10:02:50,704 [main] INFO Login Validation - Gender Field Vaidated
+2024-09-19 10:03:12,039 [main] INFO Login Validation - Year of Experience Field is Validated
+2024-09-19 10:03:16,163 [main] INFO Login Validation - Month of experience Field is Validated
+2024-09-19 10:03:16,346 [main] INFO Login Validation - Highest Qualification field is validated
+2024-09-19 10:03:16,676 [main] INFO Login Validation - Key Skills field is validated
+2024-09-19 10:03:16,801 [main] INFO Login Validation - Current Designation field is validated
+2024-09-19 10:03:16,936 [main] INFO Login Validation - Current Location Field is validated
+2024-09-19 10:03:16,959 [main] INFO Login Validation - Job Allication Form Validated
+2024-09-19 10:03:17,752 [main] INFO Login Validation - URL Entered
+2024-09-19 10:03:24,743 [main] INFO Login Validation - Moved to Home Element
+2024-09-19 10:03:25,675 [main] INFO Login Validation - Online is Clicked
+2024-09-19 10:03:26,005 [main] INFO Login Validation - Moved to Home Element
+2024-09-19 10:03:26,291 [main] INFO Login Validation - Name Field Validated
+2024-09-19 10:03:26,766 [main] INFO Login Validation - Email Field Validated
+2024-09-19 10:03:27,165 [main] INFO Login Validation - Phone Field Validated
+2024-09-19 10:03:34,039 [main] INFO Login Validation - Requirement field Validated
+2024-09-19 10:03:35,588 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-19 10:03:35,599 [main] INFO Login Validation - Send Message form Validated
+2024-09-19 10:03:36,237 [main] INFO Login Validation - URL Entered
+2024-09-19 10:03:38,417 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:03:40,553 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-19 10:03:44,276 [main] INFO Login Validation - Number of employees is Validated
+2024-09-19 10:03:47,171 [main] INFO Login Validation - Company Type is Validated
+2024-09-19 10:03:50,022 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-19 10:03:58,142 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-19 10:03:58,289 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-19 10:03:59,474 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-19 10:03:59,828 [main] INFO Login Validation - Address Field Validated
+2024-09-19 10:03:59,968 [main] INFO Login Validation - City Field Validated
+2024-09-19 10:04:00,128 [main] INFO Login Validation - Website Field Validated
+2024-09-19 10:04:00,369 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-19 10:04:00,497 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-19 10:04:00,654 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-19 10:04:00,841 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-19 10:04:01,013 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-19 10:04:01,233 [main] INFO Login Validation - Email field Field Validated
+2024-09-19 10:04:01,450 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-19 10:04:01,598 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-19 10:04:01,732 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-19 10:04:01,944 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-19 10:04:02,258 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-19 10:04:02,261 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-19 10:04:07,830 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:08,068 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:09,360 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:09,471 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-19 10:04:09,518 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:09,973 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:12,501 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:12,527 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-19 10:04:12,816 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:13,537 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:14,287 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:14,331 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-19 10:04:14,627 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:15,256 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:16,416 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:16,482 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-19 10:04:16,762 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:18,165 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:18,415 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:18,417 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-19 10:04:18,808 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:19,467 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:20,145 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:20,207 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-19 10:04:20,493 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:20,976 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:22,979 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:23,000 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-19 10:04:23,293 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:26,994 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:27,884 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:27,906 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-19 10:04:28,207 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:28,881 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:29,987 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:30,045 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-19 10:04:30,366 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:30,998 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:04:31,739 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:04:31,806 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-19 10:04:44,826 [main] INFO Login Validation - URL Entered
+2024-09-19 10:04:55,530 [main] INFO Login Validation - open chat Clicked
+2024-09-19 10:04:59,779 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 10:05:00,834 [main] INFO Login Validation - URL Entered
+2024-09-19 10:05:04,247 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 10:05:05,079 [main] INFO Login Validation - URL Entered
+2024-09-19 10:05:12,258 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 10:05:13,238 [main] INFO Login Validation - URL Entered
+2024-09-19 10:05:18,630 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 10:05:19,521 [main] INFO Login Validation - URL Entered
+2024-09-19 10:05:24,470 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 10:05:25,398 [main] INFO Login Validation - URL Entered
+2024-09-19 10:05:28,927 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 10:05:29,852 [main] INFO Login Validation - URL Entered
+2024-09-19 10:05:32,834 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 10:06:07,789 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:08,639 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:08,718 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-19 10:06:09,008 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:09,963 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:09,979 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-19 10:06:10,307 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:10,894 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:11,007 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-19 10:06:11,335 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:11,907 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:11,968 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-19 10:06:12,299 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:13,011 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:13,034 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-19 10:06:13,323 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:14,046 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:14,124 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-19 10:06:14,430 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:15,090 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:15,182 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-19 10:06:15,486 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:16,097 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:16,120 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-19 10:06:16,403 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:16,974 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:17,058 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-19 10:06:17,338 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:17,858 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:17,885 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-19 10:06:18,170 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:18,853 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:18,931 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-19 10:06:19,260 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:19,864 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:19,934 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-19 10:06:20,251 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:20,778 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:20,871 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-19 10:06:21,186 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:21,707 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:21,785 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-19 10:06:22,096 [main] INFO Login Validation - URL Entered
+2024-09-19 10:06:22,626 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:06:22,689 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-19 10:06:38,854 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:01,868 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-19 10:07:02,436 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:03,653 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-19 10:07:03,971 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:05,137 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-19 10:07:05,421 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:06,427 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-19 10:07:06,729 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:07,616 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-19 10:07:07,895 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:08,795 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-19 10:07:42,159 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:42,537 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-19 10:07:45,057 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:07:45,081 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-19 10:07:45,484 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:45,743 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-19 10:07:48,553 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:07:48,584 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-19 10:07:48,908 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:49,409 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-19 10:07:50,170 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:07:50,191 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-19 10:07:50,448 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:50,941 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-19 10:07:51,586 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:07:51,608 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-19 10:07:51,869 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:52,322 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-19 10:07:53,054 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:07:53,082 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-19 10:07:59,396 [main] INFO Login Validation - URL Entered
+2024-09-19 10:07:59,609 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:07:59,818 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:00,924 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:02,440 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-19 10:08:02,706 [main] INFO Login Validation - URL Entered
+2024-09-19 10:08:03,013 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:08:04,467 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:05,663 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:05,758 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-19 10:08:06,020 [main] INFO Login Validation - URL Entered
+2024-09-19 10:08:06,702 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:08:06,945 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:21,131 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:21,244 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-19 10:08:21,551 [main] INFO Login Validation - URL Entered
+2024-09-19 10:08:21,760 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:08:22,669 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:23,567 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:23,654 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-19 10:08:23,924 [main] INFO Login Validation - URL Entered
+2024-09-19 10:08:24,568 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:08:25,112 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:25,829 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:25,909 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-19 10:08:26,187 [main] INFO Login Validation - URL Entered
+2024-09-19 10:08:26,880 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:08:27,367 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:28,025 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:28,096 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-19 10:08:28,416 [main] INFO Login Validation - URL Entered
+2024-09-19 10:08:29,096 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-19 10:08:29,495 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-19 10:08:30,443 [main] INFO Login Validation - Submenu clicked
+2024-09-19 10:08:30,520 [main] INFO Login Validation - Windows Application Development Sub Menu Validated
+2024-09-19 10:29:21,641 [main] INFO Login Validation - URL Entered
+2024-09-19 10:29:32,291 [main] INFO Login Validation - open chat Clicked
+2024-09-19 10:29:35,336 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 10:29:37,499 [main] INFO Login Validation - URL Entered
+2024-09-19 10:29:40,807 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 10:29:42,031 [main] INFO Login Validation - URL Entered
+2024-09-19 10:29:44,218 [main] INFO Login Validation - URL Entered
+2024-09-19 10:29:47,621 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 10:29:49,319 [main] INFO Login Validation - URL Entered
+2024-09-19 10:29:52,733 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 10:29:54,188 [main] INFO Login Validation - URL Entered
+2024-09-19 10:29:57,710 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 10:29:58,334 [main] INFO Login Validation - URL Entered
+2024-09-19 10:30:00,813 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 11:15:33,559 [main] INFO Login Validation - URL Entered
+2024-09-19 11:15:44,031 [main] INFO Login Validation - open chat Clicked
+2024-09-19 11:15:47,076 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 11:15:49,225 [main] INFO Login Validation - URL Entered
+2024-09-19 11:15:52,552 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 11:15:53,167 [main] INFO Login Validation - URL Entered
+2024-09-19 11:15:55,014 [main] INFO Login Validation - URL Entered
+2024-09-19 11:15:58,388 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 11:15:59,164 [main] INFO Login Validation - URL Entered
+2024-09-19 11:16:02,621 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 11:16:03,488 [main] INFO Login Validation - URL Entered
+2024-09-19 11:16:06,957 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 11:16:07,509 [main] INFO Login Validation - URL Entered
+2024-09-19 11:16:10,002 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 11:22:20,998 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:23,464 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:32,747 [main] INFO Login Validation - open chat Clicked
+2024-09-19 11:22:34,702 [main] INFO Login Validation - open chat Clicked
+2024-09-19 11:22:36,422 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 11:22:37,581 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:37,766 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 11:22:42,048 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:47,825 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:51,096 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:54,465 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 11:22:55,036 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:55,844 [main] INFO Login Validation - URL Entered
+2024-09-19 11:22:59,177 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 11:23:00,628 [main] INFO Login Validation - URL Entered
+2024-09-19 11:23:04,289 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 11:23:05,297 [main] INFO Login Validation - URL Entered
+2024-09-19 11:23:07,867 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 11:23:16,059 [main] INFO Login Validation - URL Entered
+2024-09-19 11:23:42,809 [main] INFO Login Validation - URL Entered
+2024-09-19 11:23:46,424 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 11:23:47,206 [main] INFO Login Validation - URL Entered
+2024-09-19 11:23:50,632 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 11:23:51,124 [main] INFO Login Validation - URL Entered
+2024-09-19 11:23:53,518 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 11:28:07,256 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:17,659 [main] INFO Login Validation - open chat Clicked
+2024-09-19 11:28:20,703 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 11:28:22,904 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:26,215 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 11:28:26,717 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:28,581 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:31,988 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 11:28:32,537 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:35,859 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 11:28:36,501 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:40,044 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 11:28:40,419 [main] INFO Login Validation - URL Entered
+2024-09-19 11:28:42,869 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 12:20:01,803 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:06,264 [main] INFO Login Validation - open chat Clicked
+2024-09-19 12:20:09,303 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 12:20:11,016 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:14,330 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 12:20:14,872 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:16,370 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 12:20:17,084 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:20,405 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 12:20:20,767 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:24,113 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 12:20:24,833 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:28,351 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 12:20:28,962 [main] INFO Login Validation - URL Entered
+2024-09-19 12:20:31,423 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 12:22:34,805 [main] INFO Login Validation - URL Entered
+2024-09-19 12:22:44,655 [main] INFO Login Validation - open chat Clicked
+2024-09-19 12:22:47,698 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 12:22:49,737 [main] INFO Login Validation - URL Entered
+2024-09-19 12:22:53,128 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 12:22:53,629 [main] INFO Login Validation - URL Entered
+2024-09-19 12:22:55,202 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 12:22:56,110 [main] INFO Login Validation - URL Entered
+2024-09-19 12:22:59,569 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 12:22:59,985 [main] INFO Login Validation - URL Entered
+2024-09-19 12:23:03,425 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 12:23:05,169 [main] INFO Login Validation - URL Entered
+2024-09-19 12:23:08,552 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 12:23:08,979 [main] INFO Login Validation - URL Entered
+2024-09-19 14:26:25,844 [main] INFO Login Validation - URL Entered
+2024-09-19 14:26:35,864 [main] INFO Login Validation - open chat Clicked
+2024-09-19 14:26:38,915 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 14:26:41,758 [main] INFO Login Validation - URL Entered
+2024-09-19 14:26:45,081 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 14:26:45,667 [main] INFO Login Validation - URL Entered
+2024-09-19 14:26:47,222 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 14:26:48,047 [main] INFO Login Validation - URL Entered
+2024-09-19 14:26:51,374 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 14:26:52,365 [main] INFO Login Validation - URL Entered
+2024-09-19 14:26:55,808 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 14:26:56,598 [main] INFO Login Validation - URL Entered
+2024-09-19 14:27:00,115 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 14:27:00,819 [main] INFO Login Validation - URL Entered
+2024-09-19 14:27:03,254 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 14:28:55,020 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:05,222 [main] INFO Login Validation - open chat Clicked
+2024-09-19 14:29:08,260 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-19 14:29:10,509 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:14,701 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:16,930 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:20,311 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-19 14:29:21,938 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:25,840 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-19 14:29:26,815 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:30,276 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-19 14:29:31,531 [main] INFO Login Validation - URL Entered
+2024-09-19 14:29:33,992 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-19 15:46:11,743 [main] INFO Login Validation - URL Entered
+2024-09-19 15:46:15,094 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-19 15:46:15,704 [main] INFO Login Validation - URL Entered
+2024-09-19 15:49:54,636 [main] INFO Login Validation - URL Entered
+2024-09-19 15:49:58,599 [main] INFO Login Validation - URL Entered
+2024-09-19 15:50:00,105 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 16:05:00,386 [main] INFO Login Validation - URL Entered
+2024-09-19 16:05:04,358 [main] INFO Login Validation - URL Entered
+2024-09-19 17:51:28,015 [main] INFO Login Validation - URL Entered
+2024-09-19 17:51:32,112 [main] INFO Login Validation - URL Entered
+2024-09-19 17:54:20,165 [main] INFO Login Validation - URL Entered
+2024-09-19 17:54:24,196 [main] INFO Login Validation - URL Entered
+2024-09-19 17:57:25,441 [main] INFO Login Validation - URL Entered
+2024-09-19 17:57:29,682 [main] INFO Login Validation - URL Entered
+2024-09-19 17:57:31,371 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 17:59:00,635 [main] INFO Login Validation - URL Entered
+2024-09-19 17:59:04,653 [main] INFO Login Validation - URL Entered
+2024-09-19 17:59:08,781 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-19 18:02:21,935 [main] INFO Login Validation - URL Entered
+2024-09-19 18:02:25,942 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:29,079 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:30,127 [main] INFO Login Validation - LOGO Validated
+2024-09-20 10:02:30,515 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:31,027 [main] INFO Login Validation - Home Menu Validated
+2024-09-20 10:02:31,322 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:32,772 [main] INFO Login Validation - About Us Menu Validated
+2024-09-20 10:02:33,087 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:34,439 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-20 10:02:34,750 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:35,784 [main] INFO Login Validation - Contact Menu Validated
+2024-09-20 10:02:36,099 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:37,340 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-20 10:02:37,658 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:38,772 [main] INFO Login Validation - Blog Menu Validated
+2024-09-20 10:02:39,131 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:46,448 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-20 10:02:50,032 [main] INFO Login Validation - URL Entered
+2024-09-20 10:02:52,305 [main] INFO Login Validation - Name Field Validated
+2024-09-20 10:02:53,730 [main] INFO Login Validation - Email Field Validated
+2024-09-20 10:02:54,150 [main] INFO Login Validation - Company Name Validated
+2024-09-20 10:03:02,810 [main] INFO Login Validation - Select Interest is Validated
+2024-09-20 10:03:06,114 [main] INFO Login Validation - Budget Field is Validated
+2024-09-20 10:03:06,610 [main] INFO Login Validation - Requirement Field is validated
+2024-09-20 10:03:06,617 [main] INFO Login Validation - Contact form Validated
+2024-09-20 10:03:07,053 [main] INFO Login Validation - URL Entered
+2024-09-20 10:03:09,545 [main] INFO Login Validation - Name Field Validated
+2024-09-20 10:03:11,508 [main] INFO Login Validation - Email Field Validated
+2024-09-20 10:03:12,819 [main] INFO Login Validation - Company Name Field Validated
+2024-09-20 10:03:20,671 [main] INFO Login Validation - Select Interest is Validated
+2024-09-20 10:03:22,961 [main] INFO Login Validation - Budget Field is Validated
+2024-09-20 10:03:23,312 [main] INFO Login Validation - Requirement Field is validated
+2024-09-20 10:03:23,398 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-20 10:03:23,698 [main] INFO Login Validation - URL Entered
+2024-09-20 10:03:24,889 [main] INFO Login Validation - Name Field Validated
+2024-09-20 10:03:24,969 [main] INFO Login Validation - Email Field Validated
+2024-09-20 10:03:33,453 [main] INFO Login Validation - Select Interest is Validated
+2024-09-20 10:03:37,154 [main] INFO Login Validation - Budget Field is Validated
+2024-09-20 10:03:38,261 [main] INFO Login Validation - Requirement Field is validated
+2024-09-20 10:03:38,264 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-20 10:03:38,662 [main] INFO Login Validation - URL Entered
+2024-09-20 10:03:41,319 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-20 10:03:44,646 [main] INFO Login Validation - Name Field Validated
+2024-09-20 10:03:44,851 [main] INFO Login Validation - Email Field Validated
+2024-09-20 10:03:48,690 [main] INFO Login Validation - phone number field validated
+2024-09-20 10:03:55,584 [main] INFO Login Validation - Select Post is Validated
+2024-09-20 10:03:57,394 [main] INFO Login Validation - Location Field is Validated
+2024-09-20 10:04:00,771 [main] INFO Login Validation - Search Engine Field is Validated
+2024-09-20 10:04:02,084 [main] INFO Login Validation - Gender Field Vaidated
+2024-09-20 10:04:21,412 [main] INFO Login Validation - Year of Experience Field is Validated
+2024-09-20 10:04:25,543 [main] INFO Login Validation - Month of experience Field is Validated
+2024-09-20 10:04:25,688 [main] INFO Login Validation - Highest Qualification field is validated
+2024-09-20 10:04:25,984 [main] INFO Login Validation - Key Skills field is validated
+2024-09-20 10:04:26,079 [main] INFO Login Validation - Current Designation field is validated
+2024-09-20 10:04:26,183 [main] INFO Login Validation - Current Location Field is validated
+2024-09-20 10:04:26,187 [main] INFO Login Validation - Job Allication Form Validated
+2024-09-20 10:04:26,772 [main] INFO Login Validation - URL Entered
+2024-09-20 10:04:33,582 [main] INFO Login Validation - Moved to Home Element
+2024-09-20 10:04:33,975 [main] INFO Login Validation - Online is Clicked
+2024-09-20 10:04:34,494 [main] INFO Login Validation - Moved to Home Element
+2024-09-20 10:04:34,849 [main] INFO Login Validation - Name Field Validated
+2024-09-20 10:04:35,287 [main] INFO Login Validation - Email Field Validated
+2024-09-20 10:04:35,486 [main] INFO Login Validation - Phone Field Validated
+2024-09-20 10:04:41,175 [main] INFO Login Validation - Requirement field Validated
+2024-09-20 10:04:41,737 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-20 10:04:41,740 [main] INFO Login Validation - Send Message form Validated
+2024-09-20 10:04:42,084 [main] INFO Login Validation - URL Entered
+2024-09-20 10:04:43,244 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:04:45,341 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-20 10:04:48,344 [main] INFO Login Validation - Number of employees is Validated
+2024-09-20 10:04:51,203 [main] INFO Login Validation - Company Type is Validated
+2024-09-20 10:04:54,012 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-20 10:05:01,656 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-20 10:05:01,787 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-20 10:05:02,899 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-20 10:05:03,152 [main] INFO Login Validation - Address Field Validated
+2024-09-20 10:05:03,301 [main] INFO Login Validation - City Field Validated
+2024-09-20 10:05:03,426 [main] INFO Login Validation - Website Field Validated
+2024-09-20 10:05:03,617 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-20 10:05:03,740 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-20 10:05:03,916 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-20 10:05:04,056 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-20 10:05:04,199 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-20 10:05:04,368 [main] INFO Login Validation - Email field Field Validated
+2024-09-20 10:05:04,590 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-20 10:05:04,769 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-20 10:05:04,875 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-20 10:05:05,080 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-20 10:05:05,392 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-20 10:05:05,395 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-20 10:05:09,067 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:09,267 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:10,122 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:10,175 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-20 10:05:10,350 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:10,513 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:12,715 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:12,732 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-20 10:05:12,889 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:13,375 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:14,114 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:14,133 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-20 10:05:14,159 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:14,776 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:15,564 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:15,626 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-20 10:05:15,817 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:16,285 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:16,415 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:16,418 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-20 10:05:16,609 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:17,049 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:17,793 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:17,834 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-20 10:05:17,996 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:18,168 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:19,305 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:19,335 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-20 10:05:19,506 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:19,954 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:20,549 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:20,576 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-20 10:05:20,733 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:21,194 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:22,508 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:22,566 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-20 10:05:22,757 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:23,252 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:05:23,870 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:05:23,931 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-20 10:05:26,565 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:35,679 [main] INFO Login Validation - open chat Clicked
+2024-09-20 10:05:39,415 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-20 10:05:39,967 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:43,250 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-20 10:05:43,299 [main] INFO Login Validation - URL Entered
+2024-09-20 10:05:49,042 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-20 10:06:09,534 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:12,830 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-20 10:06:13,444 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:18,308 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-20 10:06:19,071 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:22,502 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-20 10:06:23,106 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:25,542 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-20 10:06:28,013 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:29,314 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:29,364 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-20 10:06:29,506 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:30,007 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:30,023 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-20 10:06:30,044 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:30,630 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:30,691 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-20 10:06:30,855 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:31,317 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:31,368 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-20 10:06:31,512 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:32,522 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:32,535 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-20 10:06:32,684 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:33,243 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:33,308 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-20 10:06:33,360 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:34,072 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:34,154 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-20 10:06:34,337 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:34,843 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:34,859 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-20 10:06:35,026 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:36,079 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:36,152 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-20 10:06:36,309 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:36,793 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:36,808 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-20 10:06:36,983 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:37,571 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:37,631 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-20 10:06:37,653 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:38,230 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:38,285 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-20 10:06:38,501 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:38,985 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:39,027 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-20 10:06:39,188 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:39,911 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:39,960 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-20 10:06:40,145 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:40,620 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:40,668 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-20 10:06:43,300 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:44,511 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-20 10:06:44,758 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:45,803 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-20 10:06:45,942 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:46,717 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-20 10:06:46,923 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:47,866 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-20 10:06:48,034 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:48,864 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-20 10:06:49,021 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:49,863 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-20 10:06:53,040 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:53,201 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-20 10:06:55,570 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:55,592 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-20 10:06:55,813 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:55,991 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-20 10:06:57,297 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:06:57,321 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-20 10:06:57,463 [main] INFO Login Validation - URL Entered
+2024-09-20 10:06:57,914 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-20 10:07:00,540 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:00,577 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-20 10:07:00,784 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:01,200 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-20 10:07:01,802 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:01,819 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-20 10:07:01,840 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:02,528 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-20 10:07:03,122 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:03,152 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-20 10:07:06,276 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:06,467 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:06,666 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:07,830 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:09,358 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-20 10:07:09,547 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:09,964 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:10,566 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:11,325 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:11,404 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-20 10:07:11,556 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:12,302 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:12,892 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:27,516 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:27,620 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-20 10:07:27,841 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:27,993 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:28,619 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:29,282 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:29,339 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-20 10:07:29,485 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:30,000 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:30,164 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:32,870 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:32,927 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-20 10:07:33,080 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:33,490 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:33,713 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:34,330 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:34,382 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-20 10:07:34,524 [main] INFO Login Validation - URL Entered
+2024-09-20 10:07:34,983 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-20 10:07:35,195 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-20 10:07:38,286 [main] INFO Login Validation - Submenu clicked
+2024-09-20 10:07:38,369 [main] INFO Login Validation - Windows Application Development Sub Menu Validated
+2024-09-20 17:35:50,796 [main] INFO Login Validation - URL Entered
+2024-09-20 17:37:22,399 [main] INFO Login Validation - URL Entered
+2024-09-20 17:48:49,912 [main] INFO Login Validation - URL Entered
+2024-09-20 17:59:26,227 [main] INFO Login Validation - URL Entered
+2024-09-20 18:06:40,071 [main] INFO Login Validation - URL Entered
+2024-09-20 18:11:02,242 [main] INFO Login Validation - URL Entered
+2024-09-20 18:14:11,769 [main] INFO Login Validation - URL Entered
+2024-09-20 18:19:16,511 [main] INFO Login Validation - URL Entered
+2024-09-20 18:23:26,416 [main] INFO Login Validation - URL Entered
+2024-09-20 18:25:03,109 [main] INFO Login Validation - URL Entered
+2024-09-20 18:25:20,787 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:14,714 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:15,213 [main] INFO Login Validation - LOGO Validated
+2024-09-23 10:19:15,547 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:16,185 [main] INFO Login Validation - Home Menu Validated
+2024-09-23 10:19:16,478 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:18,509 [main] INFO Login Validation - About Us Menu Validated
+2024-09-23 10:19:18,820 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:20,751 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-23 10:19:21,205 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:22,461 [main] INFO Login Validation - Contact Menu Validated
+2024-09-23 10:19:22,794 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:24,164 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-23 10:19:24,490 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:26,799 [main] INFO Login Validation - Blog Menu Validated
+2024-09-23 10:19:27,111 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:37,280 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-23 10:19:46,758 [main] INFO Login Validation - URL Entered
+2024-09-23 10:19:49,456 [main] INFO Login Validation - Name Field Validated
+2024-09-23 10:19:54,295 [main] INFO Login Validation - Email Field Validated
+2024-09-23 10:19:56,809 [main] INFO Login Validation - Company Name Validated
+2024-09-23 10:20:05,915 [main] INFO Login Validation - Select Interest is Validated
+2024-09-23 10:20:10,533 [main] INFO Login Validation - Budget Field is Validated
+2024-09-23 10:20:11,232 [main] INFO Login Validation - Requirement Field is validated
+2024-09-23 10:20:11,245 [main] INFO Login Validation - Contact form Validated
+2024-09-23 10:20:11,766 [main] INFO Login Validation - URL Entered
+2024-09-23 10:20:14,744 [main] INFO Login Validation - Name Field Validated
+2024-09-23 10:20:17,566 [main] INFO Login Validation - Email Field Validated
+2024-09-23 10:20:18,022 [main] INFO Login Validation - Company Name Field Validated
+2024-09-23 10:20:25,630 [main] INFO Login Validation - Select Interest is Validated
+2024-09-23 10:20:27,928 [main] INFO Login Validation - Budget Field is Validated
+2024-09-23 10:20:28,222 [main] INFO Login Validation - Requirement Field is validated
+2024-09-23 10:20:28,289 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-23 10:20:28,561 [main] INFO Login Validation - URL Entered
+2024-09-23 10:20:29,722 [main] INFO Login Validation - Name Field Validated
+2024-09-23 10:20:30,906 [main] INFO Login Validation - Email Field Validated
+2024-09-23 10:20:38,871 [main] INFO Login Validation - Select Interest is Validated
+2024-09-23 10:20:42,318 [main] INFO Login Validation - Budget Field is Validated
+2024-09-23 10:20:42,807 [main] INFO Login Validation - Requirement Field is validated
+2024-09-23 10:20:42,810 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-23 10:20:43,231 [main] INFO Login Validation - URL Entered
+2024-09-23 10:20:45,330 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-23 10:20:48,661 [main] INFO Login Validation - Name Field Validated
+2024-09-23 10:20:48,848 [main] INFO Login Validation - Email Field Validated
+2024-09-23 10:20:50,414 [main] INFO Login Validation - phone number field validated
+2024-09-23 10:20:57,889 [main] INFO Login Validation - Select Post is Validated
+2024-09-23 10:20:59,652 [main] INFO Login Validation - Location Field is Validated
+2024-09-23 10:21:03,104 [main] INFO Login Validation - Search Engine Field is Validated
+2024-09-23 10:21:04,429 [main] INFO Login Validation - Gender Field Vaidated
+2024-09-23 10:21:23,519 [main] INFO Login Validation - Year of Experience Field is Validated
+2024-09-23 10:21:27,639 [main] INFO Login Validation - Month of experience Field is Validated
+2024-09-23 10:21:27,812 [main] INFO Login Validation - Highest Qualification field is validated
+2024-09-23 10:21:28,150 [main] INFO Login Validation - Key Skills field is validated
+2024-09-23 10:21:28,280 [main] INFO Login Validation - Current Designation field is validated
+2024-09-23 10:21:28,462 [main] INFO Login Validation - Current Location Field is validated
+2024-09-23 10:21:28,465 [main] INFO Login Validation - Job Allication Form Validated
+2024-09-23 10:21:29,161 [main] INFO Login Validation - URL Entered
+2024-09-23 10:21:35,905 [main] INFO Login Validation - Moved to Home Element
+2024-09-23 10:21:36,847 [main] INFO Login Validation - Online is Clicked
+2024-09-23 10:21:37,140 [main] INFO Login Validation - Moved to Home Element
+2024-09-23 10:21:37,402 [main] INFO Login Validation - Name Field Validated
+2024-09-23 10:21:37,868 [main] INFO Login Validation - Email Field Validated
+2024-09-23 10:21:38,299 [main] INFO Login Validation - Phone Field Validated
+2024-09-23 10:21:46,256 [main] INFO Login Validation - Requirement field Validated
+2024-09-23 10:21:47,134 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-23 10:21:47,150 [main] INFO Login Validation - Send Message form Validated
+2024-09-23 10:21:47,628 [main] INFO Login Validation - URL Entered
+2024-09-23 10:21:49,131 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:21:51,263 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-23 10:21:55,047 [main] INFO Login Validation - Number of employees is Validated
+2024-09-23 10:21:57,933 [main] INFO Login Validation - Company Type is Validated
+2024-09-23 10:22:00,816 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-23 10:22:08,689 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-23 10:22:08,809 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-23 10:22:09,973 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-23 10:22:10,196 [main] INFO Login Validation - Address Field Validated
+2024-09-23 10:22:10,318 [main] INFO Login Validation - City Field Validated
+2024-09-23 10:22:10,450 [main] INFO Login Validation - Website Field Validated
+2024-09-23 10:22:10,612 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-23 10:22:10,744 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-23 10:22:10,865 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-23 10:22:11,002 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-23 10:22:11,141 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-23 10:22:11,294 [main] INFO Login Validation - Email field Field Validated
+2024-09-23 10:22:11,463 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-23 10:22:11,594 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-23 10:22:11,731 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-23 10:22:11,917 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-23 10:22:12,220 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-23 10:22:12,222 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-23 10:22:40,822 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:41,059 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:42,678 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:42,757 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-23 10:22:42,788 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:44,126 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:45,485 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:45,501 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-23 10:22:45,645 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:46,154 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:46,739 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:46,761 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-23 10:22:47,052 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:47,717 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:48,478 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:48,532 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-23 10:22:48,691 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:48,895 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:50,106 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:50,109 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-23 10:22:50,369 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:51,075 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:51,709 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:51,754 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-23 10:22:51,904 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:52,343 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:54,432 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:54,469 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-23 10:22:54,639 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:55,134 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:55,779 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:55,799 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-23 10:22:55,969 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:56,418 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:57,893 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:57,944 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-23 10:22:58,328 [main] INFO Login Validation - URL Entered
+2024-09-23 10:22:58,911 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:22:59,668 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:22:59,747 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-23 10:23:23,532 [main] INFO Login Validation - URL Entered
+2024-09-23 10:23:27,470 [main] INFO Login Validation - open chat Clicked
+2024-09-23 10:23:31,201 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-23 10:23:31,298 [main] INFO Login Validation - URL Entered
+2024-09-23 10:23:35,096 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-23 10:23:35,727 [main] INFO Login Validation - URL Entered
+2024-09-23 10:23:39,823 [main] INFO Login Validation - Twitter Icon Validated
+2024-09-23 10:24:00,451 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:04,413 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-23 10:24:05,148 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:12,680 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-23 10:24:14,409 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:18,201 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-23 10:24:18,903 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:21,500 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-23 10:24:26,527 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:27,239 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:27,310 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-23 10:24:27,504 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:28,067 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:28,084 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-23 10:24:28,261 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:28,791 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:28,877 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-23 10:24:29,118 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:29,639 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:29,718 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-23 10:24:29,908 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:30,455 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:30,483 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-23 10:24:30,738 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:31,214 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:31,270 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-23 10:24:31,476 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:32,081 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:32,138 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-23 10:24:32,322 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:33,080 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:33,116 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-23 10:24:33,287 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:34,613 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:34,690 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-23 10:24:34,841 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:35,370 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:35,389 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-23 10:24:35,601 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:36,488 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:36,567 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-23 10:24:36,712 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:37,222 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:37,274 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-23 10:24:37,422 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:37,927 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:37,974 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-23 10:24:38,128 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:38,627 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:38,702 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-23 10:24:38,879 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:39,373 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:39,418 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-23 10:24:42,311 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:43,886 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-23 10:24:44,073 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:45,649 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-23 10:24:45,866 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:47,113 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-23 10:24:47,269 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:48,081 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-23 10:24:48,235 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:48,983 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-23 10:24:49,124 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:49,916 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-23 10:24:52,711 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:52,996 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-23 10:24:54,505 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:54,523 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-23 10:24:54,739 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:54,924 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-23 10:24:56,158 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:56,179 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-23 10:24:56,366 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:56,814 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-23 10:24:57,347 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:57,376 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-23 10:24:57,534 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:57,982 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-23 10:24:58,639 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:58,658 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-23 10:24:58,792 [main] INFO Login Validation - URL Entered
+2024-09-23 10:24:59,231 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-23 10:24:59,865 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:24:59,891 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-23 10:25:23,627 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:23,858 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:24,063 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:25,118 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:26,650 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-23 10:25:26,925 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:27,583 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:27,848 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:28,924 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:29,459 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-23 10:25:29,711 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:30,212 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:30,411 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:48,127 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:48,209 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-23 10:25:48,457 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:48,648 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:49,601 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:50,925 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:51,008 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-23 10:25:51,265 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:51,911 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:52,386 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:53,088 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:53,153 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-23 10:25:53,182 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:54,023 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:54,233 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:55,070 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:55,149 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-23 10:25:55,389 [main] INFO Login Validation - URL Entered
+2024-09-23 10:25:55,934 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-23 10:25:56,189 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-23 10:25:57,040 [main] INFO Login Validation - Submenu clicked
+2024-09-23 10:25:57,104 [main] INFO Login Validation - Windows Application Development Sub Menu Validated
+2024-09-24 10:19:09,611 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:10,037 [main] INFO Login Validation - LOGO Validated
+2024-09-24 10:19:10,267 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:10,595 [main] INFO Login Validation - Home Menu Validated
+2024-09-24 10:19:10,807 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:11,983 [main] INFO Login Validation - About Us Menu Validated
+2024-09-24 10:19:12,252 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:13,856 [main] INFO Login Validation - Get_Quote Menu Validated
+2024-09-24 10:19:14,158 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:15,495 [main] INFO Login Validation - Contact Menu Validated
+2024-09-24 10:19:15,796 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:16,777 [main] INFO Login Validation - Portfolio Menu Validated
+2024-09-24 10:19:17,145 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:18,104 [main] INFO Login Validation - Blog Menu Validated
+2024-09-24 10:19:18,365 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:24,006 [main] INFO Login Validation - Contact Telephone Icon Validated
+2024-09-24 10:19:28,717 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:30,940 [main] INFO Login Validation - Name Field Validated
+2024-09-24 10:19:32,165 [main] INFO Login Validation - Email Field Validated
+2024-09-24 10:19:32,558 [main] INFO Login Validation - Company Name Validated
+2024-09-24 10:19:40,927 [main] INFO Login Validation - Select Interest is Validated
+2024-09-24 10:19:44,309 [main] INFO Login Validation - Budget Field is Validated
+2024-09-24 10:19:44,700 [main] INFO Login Validation - Requirement Field is validated
+2024-09-24 10:19:44,717 [main] INFO Login Validation - Contact form Validated
+2024-09-24 10:19:45,103 [main] INFO Login Validation - URL Entered
+2024-09-24 10:19:47,524 [main] INFO Login Validation - Name Field Validated
+2024-09-24 10:19:48,097 [main] INFO Login Validation - Email Field Validated
+2024-09-24 10:19:49,574 [main] INFO Login Validation - Company Name Field Validated
+2024-09-24 10:19:57,506 [main] INFO Login Validation - Select Interest is Validated
+2024-09-24 10:19:59,901 [main] INFO Login Validation - Budget Field is Validated
+2024-09-24 10:20:00,198 [main] INFO Login Validation - Requirement Field is validated
+2024-09-24 10:20:00,246 [main] INFO Login Validation - Get Quote Form Validated
+2024-09-24 10:20:00,566 [main] INFO Login Validation - URL Entered
+2024-09-24 10:20:01,744 [main] INFO Login Validation - Name Field Validated
+2024-09-24 10:20:01,883 [main] INFO Login Validation - Email Field Validated
+2024-09-24 10:20:09,680 [main] INFO Login Validation - Select Interest is Validated
+2024-09-24 10:20:13,173 [main] INFO Login Validation - Budget Field is Validated
+2024-09-24 10:20:13,524 [main] INFO Login Validation - Requirement Field is validated
+2024-09-24 10:20:13,531 [main] INFO Login Validation - Quick Consultation form Validated
+2024-09-24 10:20:13,784 [main] INFO Login Validation - URL Entered
+2024-09-24 10:20:15,900 [main] INFO Login Validation - Job Application Menu clicked
+2024-09-24 10:20:19,155 [main] INFO Login Validation - Name Field Validated
+2024-09-24 10:20:19,849 [main] INFO Login Validation - Email Field Validated
+2024-09-24 10:20:21,597 [main] INFO Login Validation - phone number field validated
+2024-09-24 10:20:28,253 [main] INFO Login Validation - Select Post is Validated
+2024-09-24 10:20:30,027 [main] INFO Login Validation - Location Field is Validated
+2024-09-24 10:20:33,521 [main] INFO Login Validation - Search Engine Field is Validated
+2024-09-24 10:20:34,875 [main] INFO Login Validation - Gender Field Vaidated
+2024-09-24 10:20:54,297 [main] INFO Login Validation - Year of Experience Field is Validated
+2024-09-24 10:20:58,508 [main] INFO Login Validation - Month of experience Field is Validated
+2024-09-24 10:20:58,690 [main] INFO Login Validation - Highest Qualification field is validated
+2024-09-24 10:20:58,921 [main] INFO Login Validation - Key Skills field is validated
+2024-09-24 10:20:59,020 [main] INFO Login Validation - Current Designation field is validated
+2024-09-24 10:20:59,112 [main] INFO Login Validation - Current Location Field is validated
+2024-09-24 10:20:59,118 [main] INFO Login Validation - Job Allication Form Validated
+2024-09-24 10:20:59,681 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:06,302 [main] INFO Login Validation - Moved to Home Element
+2024-09-24 10:21:06,632 [main] INFO Login Validation - Online is Clicked
+2024-09-24 10:21:07,171 [main] INFO Login Validation - Moved to Home Element
+2024-09-24 10:21:07,419 [main] INFO Login Validation - Name Field Validated
+2024-09-24 10:21:07,647 [main] INFO Login Validation - Email Field Validated
+2024-09-24 10:21:07,830 [main] INFO Login Validation - Phone Field Validated
+2024-09-24 10:21:12,619 [main] INFO Login Validation - Requirement field Validated
+2024-09-24 10:21:13,111 [main] INFO Login Validation - Frame Closer Vaidated
+2024-09-24 10:21:13,119 [main] INFO Login Validation - Send Message form Validated
+2024-09-24 10:21:13,443 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:14,515 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:16,792 [main] INFO Login Validation - Name of the company Field Validated
+2024-09-24 10:21:20,349 [main] INFO Login Validation - Number of employees is Validated
+2024-09-24 10:21:23,139 [main] INFO Login Validation - Company Type is Validated
+2024-09-24 10:21:25,908 [main] INFO Login Validation - Industry Experience Field is Validated
+2024-09-24 10:21:33,582 [main] INFO Login Validation - TEch Expertise is Validated
+2024-09-24 10:21:33,706 [main] INFO Login Validation - Tax ID Field Validated
+2024-09-24 10:21:34,862 [main] INFO Login Validation - Registration Number Field Validated
+2024-09-24 10:21:35,163 [main] INFO Login Validation - Address Field Validated
+2024-09-24 10:21:35,314 [main] INFO Login Validation - City Field Validated
+2024-09-24 10:21:35,479 [main] INFO Login Validation - Website Field Validated
+2024-09-24 10:21:35,665 [main] INFO Login Validation - Portfolio URL Field Validated
+2024-09-24 10:21:35,783 [main] INFO Login Validation - Name of the Contact person Field Validated
+2024-09-24 10:21:35,940 [main] INFO Login Validation - Job title of contact person Field Validated
+2024-09-24 10:21:36,121 [main] INFO Login Validation - Contact Number Field Validated
+2024-09-24 10:21:36,304 [main] INFO Login Validation - Whatsapp  Field Validated
+2024-09-24 10:21:36,489 [main] INFO Login Validation - Email field Field Validated
+2024-09-24 10:21:36,645 [main] INFO Login Validation - Bank Details Field Validated
+2024-09-24 10:21:36,805 [main] INFO Login Validation - Any Relevant Certificate Field Validated
+2024-09-24 10:21:36,939 [main] INFO Login Validation - Decision Maker Field Validated
+2024-09-24 10:21:37,122 [main] INFO Login Validation - Decision maker Email Field Validated
+2024-09-24 10:21:37,408 [main] INFO Login Validation - Brief Description about the company Field Validated
+2024-09-24 10:21:37,411 [main] INFO Login Validation - Vendor Registration form Validated
+2024-09-24 10:21:41,707 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:41,922 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:42,943 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:43,003 [main] INFO Login Validation - Mobile App Development Sub Menu Validated
+2024-09-24 10:21:43,226 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:43,493 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:45,025 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:45,041 [main] INFO Login Validation - Digital Marketing Sub Menu Validated
+2024-09-24 10:21:45,246 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:45,814 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:46,609 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:46,638 [main] INFO Login Validation - Mobile App Marketing Agency Sub Menu Validated
+2024-09-24 10:21:46,873 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:47,388 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:48,276 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:48,360 [main] INFO Login Validation - Hire Our Didicated Developers Sub Menu Validated
+2024-09-24 10:21:48,600 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:49,173 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:49,293 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:49,298 [main] INFO Login Validation - Web Design and Development Sub Menu Not Clickable
+2024-09-24 10:21:49,620 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:50,115 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:53,197 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:53,256 [main] INFO Login Validation - Business Consulting Services Sub Menu Validated
+2024-09-24 10:21:53,531 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:54,083 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:55,211 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:55,235 [main] INFO Login Validation - AI Services Sub Menu Validated
+2024-09-24 10:21:55,480 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:56,107 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:56,806 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:56,820 [main] INFO Login Validation - Wallet Integration Service Sub Menu Validated
+2024-09-24 10:21:57,082 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:57,692 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:21:58,546 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:21:58,605 [main] INFO Login Validation - Blockchain Development Sub Menu Validated
+2024-09-24 10:21:58,889 [main] INFO Login Validation - URL Entered
+2024-09-24 10:21:59,562 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:22:00,308 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:22:00,376 [main] INFO Login Validation - Managed Services Sub Menu Validated
+2024-09-24 10:22:28,350 [main] INFO Login Validation - URL Entered
+2024-09-24 10:22:33,073 [main] INFO Login Validation - open chat Clicked
+2024-09-24 10:22:37,571 [main] INFO Login Validation - Whatsapp Icon Validated
+2024-09-24 10:22:38,305 [main] INFO Login Validation - URL Entered
+2024-09-24 10:22:41,636 [main] INFO Login Validation - Facebook Icon Validated
+2024-09-24 10:22:42,275 [main] INFO Login Validation - URL Entered
+2024-09-24 10:22:47,521 [main] INFO Login Validation - URL Entered
+2024-09-24 10:22:51,587 [main] INFO Login Validation - Pinterest Icon Validated
+2024-09-24 10:22:52,237 [main] INFO Login Validation - URL Entered
+2024-09-24 10:22:57,403 [main] INFO Login Validation - Youtube Icon Validated
+2024-09-24 10:22:58,326 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:01,742 [main] INFO Login Validation - Instagram Icon Validated
+2024-09-24 10:23:02,444 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:06,196 [main] INFO Login Validation - Linkedin Icon Validated
+2024-09-24 10:23:12,307 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:13,020 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:13,103 [main] INFO Login Validation - Company Fact File Sub Menu Validated
+2024-09-24 10:23:13,157 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:13,966 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:13,986 [main] INFO Login Validation - Meet the Team Sub Menu Validated
+2024-09-24 10:23:14,258 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:14,776 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:14,872 [main] INFO Login Validation - Our Clients Sub Menu Validated
+2024-09-24 10:23:15,098 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:15,597 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:15,673 [main] INFO Login Validation - Products Sub Menu Validated
+2024-09-24 10:23:15,897 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:16,973 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:16,991 [main] INFO Login Validation - Become Our Representative Sub Menu Validated
+2024-09-24 10:23:17,229 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:17,857 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:17,908 [main] INFO Login Validation - Business Models Sub Menu Validated
+2024-09-24 10:23:39,425 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:40,121 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:40,204 [main] INFO Login Validation - Awards Sub Menu Validated
+2024-09-24 10:23:40,406 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:40,989 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:41,007 [main] INFO Login Validation - Partner With Us Sub Menu Validated
+2024-09-24 10:23:41,228 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:41,748 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:41,809 [main] INFO Login Validation - Testimonials Sub Menu Validated
+2024-09-24 10:23:42,015 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:42,619 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:42,634 [main] INFO Login Validation - Vendor Registration Sub Menu Validated
+2024-09-24 10:23:42,830 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:43,409 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:43,464 [main] INFO Login Validation - Technologies Sub Menu Validated
+2024-09-24 10:23:43,664 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:44,797 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:44,843 [main] INFO Login Validation - Methodology Sub Menu Validated
+2024-09-24 10:23:45,034 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:45,524 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:45,577 [main] INFO Login Validation - Alliances Sub Menu Validated
+2024-09-24 10:23:45,777 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:46,288 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:46,353 [main] INFO Login Validation - Infrastructure Sub Menu Validated
+2024-09-24 10:23:46,727 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:47,294 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:23:47,364 [main] INFO Login Validation - Group Companies Sub Menu Validated
+2024-09-24 10:23:51,457 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:52,716 [main] INFO Login Validation - Footer Job Application Menu Validated
+2024-09-24 10:23:52,969 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:54,855 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-24 10:23:55,058 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:56,463 [main] INFO Login Validation - Footer Careers Menu Validated
+2024-09-24 10:23:56,659 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:57,488 [main] INFO Login Validation - Footer Become Our Representative Menu Validated
+2024-09-24 10:23:57,699 [main] INFO Login Validation - URL Entered
+2024-09-24 10:23:59,124 [main] INFO Login Validation - Footer Privacy Policy Menu Validated
+2024-09-24 10:23:59,295 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:00,616 [main] INFO Login Validation - Footer About Us Menu Validated
+2024-09-24 10:24:05,020 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:05,197 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-24 10:24:06,976 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:06,998 [main] INFO Login Validation - Case Studies Sub Menu Validated
+2024-09-24 10:24:07,242 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:07,424 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-24 10:24:08,526 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:08,549 [main] INFO Login Validation - White Papers Sub Menu Validated
+2024-09-24 10:24:08,778 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:09,240 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-24 10:24:10,512 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:10,533 [main] INFO Login Validation - Ebooks Sub Menu Validated
+2024-09-24 10:24:26,207 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:26,397 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-24 10:24:27,222 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:27,247 [main] INFO Login Validation - Webinars Sub Menu Validated
+2024-09-24 10:24:27,527 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:28,174 [main] INFO Login Validation - Mousehover to the Resource Menu
+2024-09-24 10:24:28,845 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:28,874 [main] INFO Login Validation - Knowledge Base Sub Menu Validated
+2024-09-24 10:24:53,987 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:54,217 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:24:54,584 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:24:55,543 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:57,068 [main] INFO Login Validation - Android App Development Sub Menu Validated
+2024-09-24 10:24:57,252 [main] INFO Login Validation - URL Entered
+2024-09-24 10:24:57,452 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:24:58,450 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:24:59,479 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:24:59,576 [main] INFO Login Validation - Enterprise Mobile Application Development Sub Menu Validated
+2024-09-24 10:24:59,823 [main] INFO Login Validation - URL Entered
+2024-09-24 10:25:00,272 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:25:00,572 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:25:18,441 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:25:18,520 [main] INFO Login Validation - Startup App Development Sub Menu Validated
+2024-09-24 10:25:18,874 [main] INFO Login Validation - URL Entered
+2024-09-24 10:25:19,070 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:25:19,765 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:25:20,394 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:25:20,448 [main] INFO Login Validation - iOS App Development Sub Menu Validated
+2024-09-24 10:25:20,643 [main] INFO Login Validation - URL Entered
+2024-09-24 10:25:21,346 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:25:21,780 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:25:22,351 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:25:22,402 [main] INFO Login Validation - iPad App Development Sub Menu Validated
+2024-09-24 10:25:22,598 [main] INFO Login Validation - URL Entered
+2024-09-24 10:25:23,066 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:25:23,328 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:25:23,973 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:25:24,035 [main] INFO Login Validation - HTML5 Development Sub Menu Validated
+2024-09-24 10:25:24,223 [main] INFO Login Validation - URL Entered
+2024-09-24 10:25:24,682 [main] INFO Login Validation - Mousehover to the Service Menu
+2024-09-24 10:25:24,949 [main] INFO Login Validation - Mousehover to the Mobile App development Submenu
+2024-09-24 10:25:25,704 [main] INFO Login Validation - Submenu clicked
+2024-09-24 10:25:25,759 [main] INFO Login Validation - Windows Application Development Sub Menu Validated

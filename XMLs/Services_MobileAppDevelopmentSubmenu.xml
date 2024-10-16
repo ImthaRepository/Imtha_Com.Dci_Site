@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Services_MobileAppDevelopmentSubmenu">
+  <test thread-count="5" name="DCI_Site_Functional_Testing">
+    <classes>
+      <class name="Home_Page_Menu.Services_MobileAppDevelopmentMenu"/>
+    </classes>
+  </test> <!-- DCI_Site_Functional_Testing -->
+</suite> <!-- Services_MobileAppDevelopmentSubmenu -->

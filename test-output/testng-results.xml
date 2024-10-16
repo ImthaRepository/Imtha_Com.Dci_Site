@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-14T10:03:30 IST" name="Resource_Submenu" finished-at="2024-10-14T10:03:43 IST" duration-ms="13149">
+    <groups>
+    </groups>
+    <test started-at="2024-10-14T10:03:30 IST" name="DCI_Site_Functional_Testing" finished-at="2024-10-14T10:03:43 IST" duration-ms="13149">
+      <class name="Home_Page_Menu.Header_Resource_Submenu">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:30 IST" name="setup" finished-at="2024-10-14T10:03:32 IST" duration-ms="1467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:32 IST" name="URL_Call" finished-at="2024-10-14T10:03:33 IST" duration-ms="1577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Case_Studies_SubMenu()[pri:1, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:33 IST" name="Case_Studies_SubMenu" finished-at="2024-10-14T10:03:35 IST" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Case_Studies_SubMenu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:35 IST" name="URL_Call" finished-at="2024-10-14T10:03:36 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="White_Papers_SubMenu()[pri:2, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:36 IST" name="White_Papers_SubMenu" finished-at="2024-10-14T10:03:37 IST" duration-ms="1326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- White_Papers_SubMenu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:37 IST" name="URL_Call" finished-at="2024-10-14T10:03:38 IST" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Ebooks_SubMenu()[pri:3, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:38 IST" name="Ebooks_SubMenu" finished-at="2024-10-14T10:03:38 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ebooks_SubMenu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:38 IST" name="URL_Call" finished-at="2024-10-14T10:03:39 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Webinars_SubMenu()[pri:4, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:39 IST" name="Webinars_SubMenu" finished-at="2024-10-14T10:03:40 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webinars_SubMenu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:40 IST" name="URL_Call" finished-at="2024-10-14T10:03:41 IST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Knowledge_Base_SubMenu()[pri:5, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:41 IST" name="Knowledge_Base_SubMenu" finished-at="2024-10-14T10:03:42 IST" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Knowledge_Base_SubMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Home_Page_Menu.Header_Resource_Submenu@60015ef5]" started-at="2024-10-14T10:03:42 IST" name="tearDown" finished-at="2024-10-14T10:03:43 IST" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Home_Page_Menu.Header_Resource_Submenu -->
+    </test> <!-- DCI_Site_Functional_Testing -->
+  </suite> <!-- Resource_Submenu -->
+  <suite started-at="2024-10-14T10:03:44 IST" name="Functional_Test" finished-at="2024-10-14T10:03:44 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Functional_Test -->
+  <suite started-at="2024-10-14T10:03:10 IST" name="Header_Menu" finished-at="2024-10-14T10:03:29 IST" duration-ms="19684">
+    <groups>
+    </groups>
+    <test started-at="2024-10-14T10:03:10 IST" name="DCI_Site_Functional_Testing" finished-at="2024-10-14T10:03:29 IST" duration-ms="19684">
+      <class name="Home_Page_Menu.Header_Menu_Header">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:10 IST" name="setup" finished-at="2024-10-14T10:03:12 IST" duration-ms="1868" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:12 IST" name="URL_Call" finished-at="2024-10-14T10:03:13 IST" duration-ms="1089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Logo()[pri:1, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:13 IST" name="Logo" finished-at="2024-10-14T10:03:13 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logo -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:14 IST" name="URL_Call" finished-at="2024-10-14T10:03:14 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Home_Menu()[pri:2, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:14 IST" name="Home_Menu" finished-at="2024-10-14T10:03:14 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Menu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:14 IST" name="URL_Call" finished-at="2024-10-14T10:03:14 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="About_Us_Menu()[pri:3, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:14 IST" name="About_Us_Menu" finished-at="2024-10-14T10:03:16 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- About_Us_Menu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:16 IST" name="URL_Call" finished-at="2024-10-14T10:03:16 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Get_Quote_Menu()[pri:4, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:16 IST" name="Get_Quote_Menu" finished-at="2024-10-14T10:03:17 IST" duration-ms="1260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get_Quote_Menu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:18 IST" name="URL_Call" finished-at="2024-10-14T10:03:18 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Contact_Menu()[pri:5, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:18 IST" name="Contact_Menu" finished-at="2024-10-14T10:03:19 IST" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_Menu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:19 IST" name="URL_Call" finished-at="2024-10-14T10:03:20 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Portfolio_Menu()[pri:6, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:20 IST" name="Portfolio_Menu" finished-at="2024-10-14T10:03:21 IST" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Portfolio_Menu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:21 IST" name="URL_Call" finished-at="2024-10-14T10:03:21 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Blog_Menu()[pri:7, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:21 IST" name="Blog_Menu" finished-at="2024-10-14T10:03:22 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blog_Menu -->
+        <test-method is-config="true" signature="URL_Call()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:23 IST" name="URL_Call" finished-at="2024-10-14T10:03:23 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL_Call -->
+        <test-method signature="Contact_Telephone_Icon_Menu()[pri:8, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:23 IST" name="Contact_Telephone_Icon_Menu" finished-at="2024-10-14T10:03:28 IST" duration-ms="5307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_Telephone_Icon_Menu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Home_Page_Menu.Header_Menu_Header@10aa41f2]" started-at="2024-10-14T10:03:28 IST" name="tearDown" finished-at="2024-10-14T10:03:29 IST" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Home_Page_Menu.Header_Menu_Header -->
+    </test> <!-- DCI_Site_Functional_Testing -->
+  </suite> <!-- Header_Menu -->
+</testng-results>

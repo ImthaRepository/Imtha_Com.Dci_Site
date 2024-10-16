@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Funtional_Test]" verbose="0">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="Utilities.Report_Generation"/>
+  </listeners>
+  <test thread-count="5" name="DCI_Forms_Validation(failed)" verbose="0">
+    <classes>
+      <class name="Form_Filling_Test.Forms_Validation">
+        <methods>
+          <include name="Job_Application_Form"/>
+          <include name="tearDown"/>
+          <include name="Send_Message_Form"/>
+          <include name="setup"/>
+          <include name="URL_Call"/>
+          <include name="Quick_Consultation_Form"/>
+        </methods>
+      </class> <!-- Form_Filling_Test.Forms_Validation -->
+    </classes>
+  </test> <!-- DCI_Forms_Validation(failed) -->
+</suite> <!-- Failed suite [Funtional_Test] -->
