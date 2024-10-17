@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Services_DigitalMarketing_SubMenu">
+  <test thread-count="5" name="Functional_Test">
+    <classes>
+      <class name="Home_Page_Menu.Services_DigitalMarketingMenu"/>
+    </classes>
+  </test> <!-- Functional_Test -->
+</suite> <!-- Services_DigitalMarketing_SubMenu -->

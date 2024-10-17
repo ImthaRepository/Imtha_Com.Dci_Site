@@ -54,7 +54,7 @@ public class Base_Class {
 		@BeforeClass
 			 public void setup(String browser) {
 		  
-			  //String browser="chrome";
+			 // String browser="chrome";
 						
 				if(browser.equalsIgnoreCase("chrome")){
 					
@@ -78,7 +78,7 @@ public class Base_Class {
 			}
 
 
-	    @AfterClass
+	      @AfterClass
 			 public void tearDown() {
 				
 			   closeAllWindows();
@@ -636,6 +636,7 @@ public class Base_Class {
 			        public Logger info(String message) {
 			          Logger log= Logger.getLogger(this.getClass());
 					  log.info(message);
+					  print(message);
 					  return log;
 			        }
 		//<-------------------------------------------------ScreenShots Calls-------------------------------------------------------------->  

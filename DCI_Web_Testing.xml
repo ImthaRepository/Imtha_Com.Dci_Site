@@ -7,7 +7,7 @@
 </listeners>
   
   <suite-files>
- 	<parameter name="browser" value="firefox"/>
+ 	<parameter name="browser" value="edge"/>
  	
     <suite-file path="XMLs/Header_Menu.xml"></suite-file>
     <suite-file path="XMLs/Form_Validation.xml"></suite-file>
@@ -18,5 +18,7 @@
   	<suite-file path="XMLs/FooterMenu.xml"></suite-file> 
   	<suite-file path="XMLs/Resource_SubMenu.xml"></suite-file>
 	<suite-file path="XMLs/Services_MobileAppDevelopmentSubmenu.xml"></suite-file> 
+	<suite-file path="XMLs/Servives_DigitalMarketing_SubMenu.xml"></suite-file> 
+	
   </suite-files>
 </suite> <!-- Functional_Test -->
