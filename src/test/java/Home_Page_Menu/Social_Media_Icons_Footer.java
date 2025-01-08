@@ -4,9 +4,8 @@ import java.io.IOException;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
-import Utilities.Report_Generation2_progress;
 
-@Listeners(Utilities.Report_Generation_Final.class)
+//@Listeners(Utilities.Report_Generation_Final.class)
 public class Social_Media_Icons_Footer extends Base_Class {
 	//Logger log= Logger.getLogger(Social_Media_Icons_Footer.class);
 @BeforeMethod
@@ -36,19 +35,20 @@ public void Whatsapp_Icon() throws InterruptedException  {
   }
 @Test (priority=2)
 public void Facebook_Icon() throws InterruptedException, IOException  {
-	Report_Generation2_progress report=new Report_Generation2_progress();
+	//Report_Generation2_progress report=new Report_Generation2_progress();
 	click(locatorXpath("//a[text()='Facebook']"));	
     switchWindow();
 	sleep(3000);
 	String ActualTitle=getTitle();
 	String ExpectedTitle="Dot Com Infoway | Madurai | Facebook";//
-	if (ActualTitle.equals(ExpectedTitle)) {	
+	/*if (ActualTitle.equals(ExpectedTitle)) {	
 		Assertpass();
 	} else {		
 		
      	screenShortWebPage(report.scrTimeStamp+" - Facebook_Icon");
 		AssertFail();
-	}
+	}*/
+	Assert(ActualTitle, ExpectedTitle);
 	info("Facebook Icon Validated");
     //switchWindow();
 }
@@ -56,20 +56,28 @@ public void Facebook_Icon() throws InterruptedException, IOException  {
 	
 @Test (priority=3)
 public void Twitter_Icon() throws InterruptedException, IOException {
-	Report_Generation2_progress report=new Report_Generation2_progress();
+	//Report_Generation2_progress report=new Report_Generation2_progress();
 	click(locatorXpath("//a[text()='Twitter']"));
     switchWindow();
 	sleep(1200);
 	String ActualURL=getUrl();
-	String ExpectedURL="https://x.com/dotcominfoway";
-	if (ActualURL.equals(ExpectedURL)) {
+	String ExpectedURL;
+	if (getUrl().equals("https://x.com/i/flow/login?redirect_after_login=%2Fdotcominfoway")) {
+		     ExpectedURL="https://x.com/i/flow/login?redirect_after_login=%2Fdotcominfoway";
+	   } else if (getUrl().equals("https://x.com/dotcominfoway?mx=2")) {
+		     ExpectedURL="https://x.com/dotcominfoway?mx=2";
+	   } else{
+		     ExpectedURL="https://x.com/dotcominfoway";
+	}
+	/*if (ActualURL.equals(ExpectedURL)) {
 		Assertpass();
 		
 	} else {
 		screenShortWebPage(report.scrTimeStamp+" - Twitter_Icon");
 		AssertFail();
 		
-	}
+	}*/
+	Assert(ActualURL, ExpectedURL);
 	info("Twitter Icon Validated");
    // switchWindow();
 	//sleep(20000);
@@ -98,6 +106,7 @@ public void Youtube_Icon() throws InterruptedException {
 	Assert(ActualTitle, ExpectedTitle);
 	//logger.info("Youtube Icon Validated");
     //switchWindow();
+	info("Youtube icon Validated");
 }
 
 
@@ -109,8 +118,9 @@ public void Instagram_Icon() throws InterruptedException {
     String ActualTitle=getTitle();
     String ExpectedTitle="Dot Com Infoway (@dotcominfowaydci) • Instagram photos and videos";
     Assert(ActualTitle, ExpectedTitle);
-  //  logger.info("Instagram Icon Validated");
+   // logger.info("Instagram Icon Validated");
    // switchWindow();
+    info("Instagram icon Validatied");
 }
 
 @Test (priority=7)

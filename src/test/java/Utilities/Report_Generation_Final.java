@@ -67,7 +67,7 @@ public void onStart(ITestContext testContext) {
 	
 	extent.setSystemInfo("Host Name", "localhost");
 	extent.setSystemInfo("Environment", "QA");
-	extent.setSystemInfo("user", "Imtha");
+	extent.setSystemInfo("User", "Imtha");
 	extent.setSystemInfo("Operating system", System.getProperty("os.name"));
 	extent.setSystemInfo("User Name", System.getProperty("user.name"));
 	extent.setSystemInfo("Browser", browser);

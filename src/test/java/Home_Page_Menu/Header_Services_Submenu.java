@@ -18,7 +18,7 @@ public class Header_Services_Submenu extends Base_Class {
 
 @Test (priority=1)
 public void Mobile_App_Development_SubMenu()  {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-18624']//a[text()='Mobile Apps Development']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-18624']//a[text()='Mobile Apps Development']"));
 	info("Submenu clicked");
 	WaitUntilVisibleLocator("//h1[text()='Mobile App Development Agency']");
 	String ActualPageTitle=getText(locatorXpath("//h1[text()='Mobile App Development Agency']"));
@@ -33,7 +33,7 @@ public void Mobile_App_Development_SubMenu()  {
 
 @Test (priority=2)
 public void Digital_Marketing_SubMenu() {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-13050']//a[text()='Digital Marketing']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-13050']//a[text()='Digital Marketing']"));
 	info("Submenu clicked");
 	WaitUntilVisibleTitle(("Digital Marketing Agency, Online Marketing Solutions - Dot Com Infoway"));
 	String ActualTitle=getTitle();
@@ -44,7 +44,7 @@ public void Digital_Marketing_SubMenu() {
 
 @Test (priority=3)
 public void Mobile_App_Marketing_Agency_SubMenu() {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-13041']//a[text()='Mobile App Marketing Agency']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-13041']//a[text()='Mobile App Marketing Agency']"));
 	info("Submenu clicked");
 	WaitUntilVisibleTitle("Mobile App Marketing Agency, ASO, User Acquisition Services");
 	String ActualTitle=getTitle();
@@ -55,7 +55,7 @@ public void Mobile_App_Marketing_Agency_SubMenu() {
 
 @Test (priority=4)
 public void Hire_Our_Dedicated_Developers_SubMenu() {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-34285']//a[text()='Hire Our Dedicated Developers']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-34285']//a[text()='Hire Our Dedicated Developers']"));
     info("Submenu clicked");
     WaitUntilVisibleLocator("//h1[text()='Hire Our Dedicated Developers']");
 	String ActualPageTitle=getText(locatorXpath("//h1[text()='Hire Our Dedicated Developers']"));
@@ -69,14 +69,14 @@ public void Hire_Our_Dedicated_Developers_SubMenu() {
 
 @Test (priority=5)
 public void Web_Design_And_Development_SubMenu()  {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-34292']//a[text()='Web Design & Development']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-34292']//a[text()='Web Design & Development']"));
     info("Submenu clicked");
 	info("Web Design and Development Sub Menu Not Clickable");
 	}
 
 @Test (priority=6)
 public void Business_Consulting_Services_SubMenu() {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-34302']//a[text()='Business Consulting Services']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-34302']//a[text()='Business Consulting Services']"));
 	info("Submenu clicked");
 	WaitUntilVisibleLocator("//h3[text()='Business Consulting Services']");
 	String ActualPageTitle=getText(locatorXpath("//h3[text()='Business Consulting Services']"));
@@ -90,7 +90,7 @@ public void Business_Consulting_Services_SubMenu() {
 
 @Test (priority=7)
 public void AI_Services_SubMenu() {
-	clickJS(locatorXpath("//li[@id='accordion-menu-item-46750']//a[text()='AI Services']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-46750']//a[text()='AI Services']"));
 	info("Submenu clicked");
 	WaitUntilVisibleTitle("AI Services, Artificial Intelligence Solutions - Dot Com Infoway");
 	String ActualTitle=getTitle();
@@ -99,6 +99,20 @@ public void AI_Services_SubMenu() {
 	info("AI Services Sub Menu Validated");
 	}
 
+@Test (priority=8)
+public void GIS_Services_SubMenu()  {
+	clickJS(locatorXpath("//li[@id='nav-menu-item-55343']//a[text()='GIS Services']"));
+	info("Submenu clicked");
+	WaitUntilVisibleTitle("Industry-Leading GIS Services for Business Insights");
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Industry-Leading GIS Services for Business Insights";
+	String AcutualUrl=getUrl();
+	String ExpectedUrl="https://www.dotcominfoway.com/gis-services/";
+	Assert(AcutualUrl, ExpectedUrl);
+	Assert(ActualTitle, ExpectedTitle);
+	info("GIS Services Sub Menu Validated");
+	}
+/*
 @Test (priority=8)
 public void Wallet_Integration_Service_SubMenu()  {
 	clickJS(locatorXpath("//li[@id='accordion-menu-item-34305']//a[text()='Wallet Integration Service']"));
@@ -137,6 +151,6 @@ public void Managed_Services_SubMenu()  {
 	Assert(ActualPageTitle, ExpectedPageTitle);
 	info("Managed Services Sub Menu Validated");
     }
-
+*/
 
 }

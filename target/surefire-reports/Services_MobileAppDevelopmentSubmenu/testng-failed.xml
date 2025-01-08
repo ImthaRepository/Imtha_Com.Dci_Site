@@ -9,10 +9,10 @@
     <classes>
       <class name="Home_Page_Menu.Services_MobileAppDevelopmentMenu">
         <methods>
-          <include name="Android_App_Development_SubMenu"/>
           <include name="tearDown"/>
-          <include name="URL_Call"/>
           <include name="setup"/>
+          <include name="URL_Call"/>
+          <include name="Blockchain_Development_SubMenu"/>
         </methods>
       </class> <!-- Home_Page_Menu.Services_MobileAppDevelopmentMenu -->
     </classes>

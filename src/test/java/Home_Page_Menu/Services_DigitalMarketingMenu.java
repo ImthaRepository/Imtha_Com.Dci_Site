@@ -19,7 +19,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Performance_Marketing_services_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-50744']//a[text()='Performance Marketing services']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Performance Marketing services - Dot Com Infoway");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Performance Marketing services - Dot Com Infoway";
@@ -32,7 +32,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void SaaS_Marketing_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-46917']//a[text()='SaaS Marketing']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("SaaS Marketing Agency, Best B2B SaaS Marketing Company");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="SaaS Marketing Agency, Best B2B SaaS Marketing Company";
@@ -45,7 +45,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void ICO_Marketing_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34256']//a[text()='ICO Marketing']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("ICO Marketing Services and Solutions, #1 Crypto Marketing Agency");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="ICO Marketing Services and Solutions, #1 Crypto Marketing Agency";
@@ -58,7 +58,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Influencer_Marketing_Services_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34257']//a[text()='Influencer Marketing Services']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Top Influencer Marketing Agency, Best Influencer Marketing Services - DCI");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Top Influencer Marketing Agency, Best Influencer Marketing Services - DCI";
@@ -71,7 +71,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Search_Engine_Optimization_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34258']//a[text()='Search Engine Optimization']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Best SEO Agency Services to Boost Your Online Leads/Sales - DCI");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Best SEO Agency Services to Boost Your Online Leads/Sales - DCI";
@@ -84,7 +84,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void PPC_Management_and_Strategy_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34259']//a[text()='PPC Management & Strategy']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("PPC Management services | pay per click management agency");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="PPC Management services | pay per click management agency";
@@ -97,7 +97,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Social_Media_Management_and_Strategy_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34260']//a[text()='Social Media Management & Strategy']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Social Media Marketing Agency, SMO Advertising Management Services");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Social Media Marketing Agency, SMO Advertising Management Services";
@@ -111,7 +111,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Conversion_Rate_Optimization_Services_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34261']//a[text()='Conversion Rate Optimization Services']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Conversion Rate Optimization Services, Top CRO Agency in USA & India");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Conversion Rate Optimization Services, Top CRO Agency in USA & India";
@@ -124,7 +124,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Multilingual_SEO_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34262']//a[text()='Multilingual SEO']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Multilingual SEO Company, Multilingual SEO Services - Dot Com Infoway");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Multilingual SEO Company, Multilingual SEO Services - Dot Com Infoway";
@@ -138,7 +138,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	public void Google_Search_Optimization_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34263']//a[text()='Google Search Optimization']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Google Search Engine Optimization Company, Google SEO Services - DCI");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Google Search Engine Optimization Company, Google SEO Services - DCI";
@@ -152,7 +152,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 		public void Google_Grants_SubMenu() throws InterruptedException  {
 			clickJS(locatorXpath("//li[@id='nav-menu-item-34264']//a[text()='Google Grants']"));
 			info("Submenu clicked");
-			sleep(1500);
+			WaitUntilVisibleTitle("Google Ad Grants Management & Consultant Services for Nonprofits and Charities – Dot Com Infoway");
 			String ActualURL=getUrl();
 			String ActualTitle=getTitle();
 			String ExpectedTitle="Google Ad Grants Management & Consultant Services for Nonprofits and Charities – Dot Com Infoway";
@@ -166,7 +166,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 		public void Inbound_marketing_services_SubMenu() throws InterruptedException  {
 			clickJS(locatorXpath("//li[@id='nav-menu-item-34265']//a[text()='Inbound marketing services']"));
 			info("Submenu clicked");
-			sleep(1500);
+			WaitUntilVisibleTitle("Inbound Marketing Agency, Inbound Marketing Services For B2B");
 			String ActualURL=getUrl();
 			String ActualTitle=getTitle();
 			String ExpectedTitle="Inbound Marketing Agency, Inbound Marketing Services For B2B";
@@ -180,7 +180,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 		public void DV360_Traffic_Management_Services_SubMenu() throws InterruptedException  {
 			clickJS(locatorXpath("//li[@id='nav-menu-item-34266']//a[text()='DV360 Traffic Management Services']"));
 			info("Submenu clicked");
-			sleep(1500);
+			WaitUntilVisibleTitle("Google Display and Video DV360 Traffic Management Services, DV360 Service Agency - Dot Com Infoway");
 			String ActualURL=getUrl();
 			String ActualTitle=getTitle();
 			String ExpectedTitle="Google Display and Video DV360 Traffic Management Services, DV360 Service Agency - Dot Com Infoway";
@@ -194,7 +194,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 		public void Account_Based_Marketing_Services_SubMenu() throws InterruptedException  {
 			clickJS(locatorXpath("//li[@id='nav-menu-item-34267']//a[text()='Account Based Marketing Services']"));
 			info("Submenu clicked");
-			sleep(1500);
+			WaitUntilVisibleTitle("Account Based Marketing Agency, ABM Services USA - Dot Com Infoway");
 			String ActualURL=getUrl();
 			String ActualTitle=getTitle();
 			String ExpectedTitle="Account Based Marketing Agency, ABM Services USA - Dot Com Infoway";

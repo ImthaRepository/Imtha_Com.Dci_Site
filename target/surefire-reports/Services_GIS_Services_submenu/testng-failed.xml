@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Services_GIS_Services_submenu]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="firefox"/>
+  <listeners>
+    <listener class-name="Utilities.Report_Generation_Final"/>
+  </listeners>
+  <test thread-count="5" name="Functionla Test(failed)" verbose="0">
+    <classes>
+      <class name="Home_Page_Menu.Services_GIS_ServicesMenu">
+        <methods>
+          <include name="LiDAR_Services_SubMenu"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="URL_Call"/>
+        </methods>
+      </class> <!-- Home_Page_Menu.Services_GIS_ServicesMenu -->
+    </classes>
+  </test> <!-- Functionla Test(failed) -->
+</suite> <!-- Failed suite [Services_GIS_Services_submenu] -->

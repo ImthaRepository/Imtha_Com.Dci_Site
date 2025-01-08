@@ -10,7 +10,7 @@ public class Forms_Validation extends Base_Class{
 	
 @BeforeMethod
 public void URL_Call() {
-		driver.get("https://www.dotcominfoway.com/");
+		Url("https://www.dotcominfoway.com/");
 		info("URL Entered");
 }
 	
@@ -91,7 +91,7 @@ info("Budget Field is Validated");
 /* click(locatorXpath("//button[@id='wpforms-submit-49671']"));
  info("submit Button clicked");*/
 // closeCurrentwindow();
- switchWindow();
+ //switchWindow();
  info("Get Quote Form Validated");	 
 
 }
@@ -207,7 +207,7 @@ public void JobApplicationForm() throws InterruptedException, AWTException {
 		    info("Send Button Clicked");*/
 		   
 		    info("Job Allication Form Validated");
-		    switchWindow();
+		   // switchWindow();
 }
 
 @Test(priority=5)
@@ -227,10 +227,34 @@ public void SendMessageForm() throws InterruptedException {
 	          info("Online is Clicked");
 	      }
 
+    
+    
     switchToDefaultFrame();
     mouseOver(locatorXpath("//div[@class='widget-visible']"));
     info("Moved to Home Element");
     switchToframeElement(locatorXpath("(//iframe[@title='chat widget'])[2]"));
+    
+    //Close the Frame
+    click(locatorXpath("(//button[@data-text='Minimize'])[1]"));
+    info("Frame Closer Vaidated");
+   
+    switchToDefaultFrame();
+    switchToframeElement(locatorXpath("(//iframe[@title='chat widget'])[1]"));
+    try {
+    	  click(locatorXpath("//div[text()=' Send message ']"));
+          info("Send Message is Clicked");
+  	      } catch (Exception e) 
+          {
+  	    	  click(locatorXpath("//div[text()=' Online ']"));
+  	          info("Online is Clicked");
+  	      }
+
+      
+      
+      switchToDefaultFrame();
+      mouseOver(locatorXpath("//div[@class='widget-visible']"));
+      info("Moved to Home Element");
+      switchToframeElement(locatorXpath("(//iframe[@title='chat widget'])[2]"));
     
 //Name Field
     sendKeys(locatorXpath("//input[@name='name']"), "Imtha Tester");

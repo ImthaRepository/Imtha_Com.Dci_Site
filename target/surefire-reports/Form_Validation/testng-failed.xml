@@ -10,8 +10,8 @@
       <class name="Form_Filling_Test.Forms_Validation">
         <methods>
           <include name="URL_Call"/>
-          <include name="JobApplicationForm"/>
           <include name="tearDown"/>
+          <include name="JobApplicationForm"/>
           <include name="setup"/>
         </methods>
       </class> <!-- Form_Filling_Test.Forms_Validation -->

@@ -19,7 +19,7 @@ public class Services_MobileAppDevelopmentMenu  extends Base_Class{
 	public void Android_App_Development_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-34250']//a[text()='Android App Development']"));
 		info("Submenu clicked");
-		sleep(1500);
+		WaitUntilVisibleTitle("Top Android App Development Agency,Hire Android Application Developers");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
 		String ExpectedTitle="Top Android App Development Agency,Hire Android Application Developers";
@@ -81,6 +81,20 @@ public class Services_MobileAppDevelopmentMenu  extends Base_Class{
 	 }
 	
 	@Test(priority=5) 
+	 public void Blockchain_Development_SubMenu()  {
+	 	clickJS(locatorXpath("//li[@id='nav-menu-item-34306']//a[text()='Blockchain Development']"));
+	 	info("Submenu clicked");
+	 	WaitUntilVisibleTitle("Blockchain Application Development Company, Ethereum App Development Services, Blockchain App Developers - Dot Com Infoway");
+	 	String ActualURL=getUrl();
+	 	String ActualTitle=getTitle();
+	 	String ExpectedTitle="Blockchain Application Development Company, Ethereum App Development Services, Blockchain App Developers - Dot Com Infoway";
+	 	String ExpectedURL="https://www.dotcominfoway.com/blockchain-development/";
+	 	Assert(ActualTitle, ExpectedTitle);
+	 	Assert(ActualURL, ExpectedURL);
+	 	info("Blockchain Development Sub Menu Validated");
+	 }
+/*	
+	@Test(priority=5) 
 	 public void iPad_App_Development_SubMenu()  {
 	 	clickJS(locatorXpath("//li[@id='nav-menu-item-34253']//a[text()='iPad App Development']"));
 	 	info("Submenu clicked");
@@ -130,4 +144,6 @@ public class Services_MobileAppDevelopmentMenu  extends Base_Class{
 	 	Assert(ActualPageTitle, ExpectedPageTitle);
 	 	info("Windows Application Development Sub Menu Validated");
 	 }
+*/
 }
+

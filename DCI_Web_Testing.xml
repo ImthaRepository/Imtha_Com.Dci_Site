@@ -9,16 +9,20 @@
   <suite-files>
  	<parameter name="browser" value="edge"/>
  	
-    <suite-file path="XMLs/Header_Menu.xml"></suite-file>
+    <suite-file path="XMLs/Header_Menu.xml"></suite-file>   
     <suite-file path="XMLs/Form_Validation.xml"></suite-file>
-	<suite-file path="XMLs/Services_SubMenu.xml"></suite-file> 
+    <suite-file path="XMLs/Services_SubMenu.xml"></suite-file>  
   	<suite-file path="XMLs/Social_Media_Icon.xml"></suite-file> 
-  	<suite-file path="XMLs/Home_Page_Body.xml"></suite-file>
+ 	<suite-file path="XMLs/Home_Page_Body.xml"></suite-file> 
     <suite-file path="XMLs/About_Us_Submenu.xml"></suite-file>
   	<suite-file path="XMLs/FooterMenu.xml"></suite-file> 
   	<suite-file path="XMLs/Resource_SubMenu.xml"></suite-file>
 	<suite-file path="XMLs/Services_MobileAppDevelopmentSubmenu.xml"></suite-file> 
 	<suite-file path="XMLs/Servives_DigitalMarketing_SubMenu.xml"></suite-file> 
+	<suite-file path="XMLs/Services_MobileAppMarketingAgency_Submenu.xml"></suite-file> 
+	<suite-file path="XMLs/Services_HireOurDedicatedDevelopers_Submenu.xml"></suite-file>
+	<suite-file path="XMLs/Services_BusinessConsultingServices_Submenu.xml"></suite-file>  
+	<suite-file path="XMLs/Servies_GIS_Submenu.xml"></suite-file> 
 	
   </suite-files>
 </suite> <!-- Functional_Test -->

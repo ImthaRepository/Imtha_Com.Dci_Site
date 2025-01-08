@@ -3,26 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Home_Page_Menu.Services_DigitalMarketingMenu">
+      <class name="Home_Page_Menu.Social_Media_Icons_Footer">
         <methods>
-          <include name="PPC_Management_and_Strategy_SubMenu"/>
-          <include name="Account_Based_Marketing_Services_SubMenu"/>
-          <include name="Google_Grants_SubMenu"/>
-          <include name="Google_Search_Optimization_SubMenu"/>
-          <include name="Social_Media_Management_and_Strategy_SubMenu"/>
-          <include name="Conversion_Rate_Optimization_Services_SubMenu"/>
-          <include name="ICO_Marketing_SubMenu"/>
-          <include name="DV360_Traffic_Management_Services_SubMenu"/>
-          <include name="Performance_Marketing_services_SubMenu"/>
-          <include name="Inbound_marketing_services_SubMenu"/>
-          <include name="SaaS_Marketing_SubMenu"/>
-          <include name="Multilingual_SEO_SubMenu"/>
-          <include name="Influencer_Marketing_Services_SubMenu"/>
           <include name="setup"/>
-          <include name="Search_Engine_Optimization_SubMenu"/>
           <include name="URL_Call"/>
+          <include name="Instagram_Icon"/>
         </methods>
-      </class> <!-- Home_Page_Menu.Services_DigitalMarketingMenu -->
+      </class> <!-- Home_Page_Menu.Social_Media_Icons_Footer -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
