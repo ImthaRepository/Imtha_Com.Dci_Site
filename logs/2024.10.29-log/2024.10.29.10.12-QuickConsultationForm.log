@@ -1,0 +1,45 @@
+2024-10-29 10:15:15,001 INFO  Forms_Validation - Name Field Validated
+2024-10-29 10:15:15,083 INFO  Forms_Validation - Email Field Validated
+2024-10-29 10:15:23,907 INFO  Forms_Validation - Select Interest is Validated
+2024-10-29 10:15:28,034 INFO  Forms_Validation - Budget Field is Validated
+2024-10-29 10:15:28,220 INFO  Forms_Validation - Requirement Field is validated
+2024-10-29 10:15:28,220 INFO  Forms_Validation - Quick Consultation form Validated
+2024-10-29 10:15:28,779 INFO  Forms_Validation - URL Entered
+2024-10-29 10:15:30,877 INFO  Forms_Validation - Job Application Menu clicked
+2024-10-29 10:15:34,583 INFO  Forms_Validation - URL Entered
+2024-10-29 10:15:34,742 INFO  Forms_Validation - Moved to Home Element
+2024-10-29 10:15:36,457 INFO  Forms_Validation - Online is Clicked
+2024-10-29 10:15:36,635 INFO  Forms_Validation - Moved to Home Element
+2024-10-29 10:15:37,158 INFO  Forms_Validation - Frame Closer Vaidated
+2024-10-29 10:15:37,159 INFO  Forms_Validation - Send Message form Validated
+2024-10-29 10:15:37,966 INFO  Forms_Validation - Online is Clicked
+2024-10-29 10:15:38,151 INFO  Forms_Validation - Moved to Home Element
+2024-10-29 10:15:38,255 INFO  Forms_Validation - Name Field Validated
+2024-10-29 10:15:38,375 INFO  Forms_Validation - Email Field Validated
+2024-10-29 10:15:38,427 INFO  Forms_Validation - Phone Field Validated
+2024-10-29 10:15:41,349 INFO  Forms_Validation - Interested service validated
+2024-10-29 10:15:41,453 INFO  Forms_Validation - Requirement field Validated
+2024-10-29 10:15:42,263 INFO  Forms_Validation - URL Entered
+2024-10-29 10:15:42,652 INFO  Forms_Validation - Submenu clicked
+2024-10-29 10:15:44,842 INFO  Forms_Validation - Name of the company Field Validated
+2024-10-29 10:15:49,607 INFO  Forms_Validation - Number of employees is Validated
+2024-10-29 10:15:54,085 INFO  Forms_Validation - Company Type is Validated
+2024-10-29 10:15:57,977 INFO  Forms_Validation - Industry Experience Field is Validated
+2024-10-29 10:16:10,252 INFO  Forms_Validation - TEch Expertise is Validated
+2024-10-29 10:16:10,292 INFO  Forms_Validation - Tax ID Field Validated
+2024-10-29 10:16:11,343 INFO  Forms_Validation - Registration Number Field Validated
+2024-10-29 10:16:11,491 INFO  Forms_Validation - Address Field Validated
+2024-10-29 10:16:11,548 INFO  Forms_Validation - City Field Validated
+2024-10-29 10:16:11,591 INFO  Forms_Validation - Website Field Validated
+2024-10-29 10:16:11,654 INFO  Forms_Validation - Portfolio URL Field Validated
+2024-10-29 10:16:11,701 INFO  Forms_Validation - Name of the Contact person Field Validated
+2024-10-29 10:16:11,748 INFO  Forms_Validation - Job title of contact person Field Validated
+2024-10-29 10:16:11,813 INFO  Forms_Validation - Contact Number Field Validated
+2024-10-29 10:16:11,873 INFO  Forms_Validation - Whatsapp  Field Validated
+2024-10-29 10:16:11,935 INFO  Forms_Validation - Email field Field Validated
+2024-10-29 10:16:11,975 INFO  Forms_Validation - Bank Details Field Validated
+2024-10-29 10:16:12,020 INFO  Forms_Validation - Any Relevant Certificate Field Validated
+2024-10-29 10:16:12,053 INFO  Forms_Validation - Decision Maker Field Validated
+2024-10-29 10:16:12,113 INFO  Forms_Validation - Decision maker Email Field Validated
+2024-10-29 10:16:12,261 INFO  Forms_Validation - Brief Description about the company Field Validated
+2024-10-29 10:16:12,261 INFO  Forms_Validation - Vendor Registration form Validated

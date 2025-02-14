@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Social_Media_Icon]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="chrome"/>
+<suite name="Failed suite [Header_Menu]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="edge"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
   <test thread-count="5" name="DCI_Site_Functional_Testing(failed)" verbose="0">
     <classes>
-      <class name="Home_Page_Menu.Social_Media_Icons_Footer">
+      <class name="Home_Page_Menu.Header_Menu_Header">
         <methods>
-          <include name="tearDown"/>
           <include name="URL_Call"/>
+          <include name="tearDown"/>
           <include name="setup"/>
-          <include name="Twitter_Icon"/>
+          <include name="Logo"/>
+          <include name="Home_Menu"/>
         </methods>
-      </class> <!-- Home_Page_Menu.Social_Media_Icons_Footer -->
+      </class> <!-- Home_Page_Menu.Header_Menu_Header -->
     </classes>
   </test> <!-- DCI_Site_Functional_Testing(failed) -->
-</suite> <!-- Failed suite [Social_Media_Icon] -->
+</suite> <!-- Failed suite [Header_Menu] -->

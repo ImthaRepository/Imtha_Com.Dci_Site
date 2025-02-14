@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Services_HireOurDedicatedDevelopers_Submenu]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="edge"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -9,10 +9,14 @@
     <classes>
       <class name="Home_Page_Menu.Services_HireOurDedicatedDevelopers">
         <methods>
+          <include name="Hire_Our_DotNET_Developers_SubMenu"/>
+          <include name="Hire_Our_WordPress_Developers_SubMenu"/>
           <include name="URL_Call"/>
           <include name="tearDown"/>
+          <include name="Hire_Our_iOS_Developers_SubMenu"/>
           <include name="setup"/>
           <include name="Hire_Our_Android_Developer_SubMenu"/>
+          <include name="Hire_Our_PHP_Developers_SubMenu"/>
         </methods>
       </class> <!-- Home_Page_Menu.Services_HireOurDedicatedDevelopers -->
     </classes>

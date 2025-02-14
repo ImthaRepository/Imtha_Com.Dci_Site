@@ -15,7 +15,7 @@ public class Header_Menu_Header extends Base_Class {
 public void Logo() {
 	click(locatorXpath("//img[@class='img-responsive standard-logo retina-logo']"));
 	String ActualTitle=getTitle();
-	String ExpectedTitle="IT Services, IT Consulting & Digital Solutions Company - Dot Com Infoway";
+	String ExpectedTitle="AI Solutions, IT Consulting, Digital Marketing & Expertise - Dot Com Infoway";
 	Assert(ActualTitle, ExpectedTitle);
 	info("LOGO Validated");
 }
@@ -24,7 +24,7 @@ public void Logo() {
 public void Home_Menu() {
 	click(locatorXpath("//ul[@id='menu-main-menu']//a[text()='Home']"));
 	String ActualTitle=getTitle();
-	String ExpectedTitle="IT Services, IT Consulting & Digital Solutions Company - Dot Com Infoway";
+	String ExpectedTitle="AI Solutions, IT Consulting, Digital Marketing & Expertise - Dot Com Infoway";
 	Assert(ActualTitle, ExpectedTitle);
 	info("Home Menu Validated");
 }

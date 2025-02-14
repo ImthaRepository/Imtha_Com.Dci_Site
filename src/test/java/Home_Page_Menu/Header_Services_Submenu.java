@@ -44,7 +44,7 @@ public void Digital_Marketing_SubMenu() {
 
 @Test (priority=3)
 public void Mobile_App_Marketing_Agency_SubMenu() {
-	clickJS(locatorXpath("//li[@id='nav-menu-item-13041']//a[text()='Mobile App Marketing Agency']"));
+	clickJS(locatorXpath("//li[@id='nav-menu-item-57025']//a[text()='Mobile App Marketing Agency']"));
 	info("Submenu clicked");
 	WaitUntilVisibleTitle("Mobile App Marketing Agency, ASO, User Acquisition Services");
 	String ActualTitle=getTitle();

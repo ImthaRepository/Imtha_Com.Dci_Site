@@ -14,7 +14,7 @@ public class Home_Page_Footer_Menu extends Base_Class{
 
 @Test (priority=1)
 public void Job_Enquiry_Apply_Here_Menu()  {
-	click(locatorXpath("//a[text()='Apply Here']"));
+	click(locatorXpath("//a[text()='  Apply Here']"));
 	info("Job Enquiry apply here menu clicked");
 	switchWindow();
 	WaitUntilVisibleLocator("//h2[@class='vc_custom_heading align-left']");
@@ -157,6 +157,20 @@ public void Mobile_Games_Marketing_Menu() {
 }
 
 @Test (priority=10)
+public void App_Store_Optimization_Services_Menu() {
+	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='App Store Optimization Services']"));
+	info("App Store Optimization Services Menu clicked");
+	WaitUntilVisibleTitle("Mobile App Marketing Agency, ASO, User Acquisition Services");
+	String ActualPageURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Mobile App Marketing Agency, ASO, User Acquisition Services";
+	String ExpectedPageURL="https://www.dotcominfoway.com/app-store-optimization-services/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualPageURL, ExpectedPageURL);
+	info("App Store Optimization Services Menu Validated");
+}
+
+@Test (priority=11)
 public void IoT_Development_Services_Menu() {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='IoT Development Services']"));
 	info("IoT Development Services Menu clicked");
@@ -170,8 +184,35 @@ public void IoT_Development_Services_Menu() {
 	info("IoT Development Services Menu Validated");
 }
 
+@Test (priority=12)
+public void AI_Services_Menu() {
+	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='AI Services']"));
+	info("AI Services Menu clicked");
+	WaitUntilVisibleTitle("AI Services, Artificial Intelligence Solutions - Dot Com Infoway");
+	String ActualPageURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="AI Services, Artificial Intelligence Solutions - Dot Com Infoway";
+	String ExpectedPageURL="https://www.dotcominfoway.com/ai-service-provider/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualPageURL, ExpectedPageURL);
+	info("AI Services Menu Validated");
+}
+
+@Test (priority=13)
+public void GIS_Services_Menu() {
+	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='GIS Services']"));
+	info("GIS Services Menu clicked");
+	WaitUntilVisibleTitle("Industry-Leading GIS Services for Business Insights");
+	String ActualPageURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Industry-Leading GIS Services for Business Insights";
+	String ExpectedPageURL="https://www.dotcominfoway.com/gis-services/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualPageURL, ExpectedPageURL);
+	info("GIS Services Menu Validated");
+}
 //--------------------------------------------------------Web Solutions-------------------------------------------------------------------//
-@Test (priority=11)
+@Test (priority=14)
 public void Web_App_Development_Menu() {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='Web App Development']"));
 	info("Web App Development Menu clicked");
@@ -185,7 +226,7 @@ public void Web_App_Development_Menu() {
 	info("Web App Development Menu Validated");
 }
 
-@Test (priority=12)
+/*@Test (priority=12)
 public void Blockchain_Development_Menu() {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='Blockchain Development']"));
 	info("Blockchain Development Menu clicked");
@@ -211,9 +252,9 @@ public void ICO_Marketing_Menu() {
 	Assert(ActualTitle, ExpectedTitle);
 	Assert(ActualPageURL, ExpectedPageURL);
 	info("ICO Marketing Menu Validated");
-}
+}*/
 
-@Test (priority=14)
+@Test (priority=15)
 public void Wallet_Integration_Menu() {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='Wallet Integration']"));
 	info("Wallet Integration Menu clicked");
@@ -227,9 +268,39 @@ public void Wallet_Integration_Menu() {
 	info("Wallet Integration Menu Validated");
 }
 
+@Test (priority=16)
+public void Conversion_Rate_Optimization_Services_Menu() {
+	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='Conversion Rate Optimization Services']"));
+	info("Conversion Rate Optimization Services Menu clicked");
+	WaitUntilVisibleTitle("Conversion Rate Optimization Services, Top CRO Agency in USA & India");
+	String ActualPageURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Conversion Rate Optimization Services, Top CRO Agency in USA & India";
+	String ExpectedPageURL="https://www.dotcominfoway.com/internet-marketing/conversion-rate-optimization-services";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualPageURL, ExpectedPageURL);
+	info("Conversion Rate Optimization Services Menu Validated");
+}
+
+@Test (priority=17)
+public void  Performance_Marketing_Services_Menu() {
+	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()=' Performance Marketing Services']"));
+	info("Performance Marketing Services Menu clicked");
+	WaitUntilVisibleTitle("Mobile App Marketing Agency, ASO, User Acquisition Services");
+	String ActualPageURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Mobile App Marketing Agency, ASO, User Acquisition Services";
+	String ExpectedPageURL="https://www.dotcominfoway.com/performance-marketing-services/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualPageURL, ExpectedPageURL);
+	info(" Performance Marketing Services Menu Validated");
+}
+
+
+
 //--------------------------------------------------------------Products------------------------------------------------------------------//
 
-@Test (priority=15)
+@Test (priority=18)
 public void School_Management_Software_Menu() throws InterruptedException {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='School Management Software']"));
 	info("School Management Software Menu clicked");
@@ -245,7 +316,7 @@ public void School_Management_Software_Menu() throws InterruptedException {
 	info("School Management Software Menu Validated");
 }
 
-@Test (priority=16)
+@Test (priority=19)
 public void Intelligent_Business_Process_Automation_Software_Menu() {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()='Intelligent Business Process Automation Software']"));
 	info("Intelligent Business Process Automation Software Menu clicked");

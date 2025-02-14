@@ -9,16 +9,21 @@
     <classes>
       <class name="Home_Page_Menu.Home_Menu_Body">
         <methods>
-          <include name="ourServices_UIorUXDesign_Menu"/>
           <include name="ourServices_EnterpriseAppDevelopment_Menu"/>
-          <include name="ourServices_WebDevelopmentServices_Menu"/>
-          <include name="URl_Call"/>
+          <include name="ourServices_UIorUXDesign_Menu"/>
+          <include name="Get_In_Touch_2_button"/>
+          <include name="ExploreMore_button"/>
           <include name="ourServices_DigitalMarketingServices_Menu"/>
           <include name="tearDown"/>
-          <include name="ourServices_IoTDevelopment_Menu"/>
+          <include name="URl_Call"/>
+          <include name="ourServices_WebDevelopmentServices_Menu"/>
           <include name="ourServices_DedicatedDevelopers_Menu"/>
+          <include name="ourServices_IoTDevelopment_Menu"/>
           <include name="ourServices_MobileAppMarketing_Menu"/>
+          <include name="Get_In_Touch_3_button"/>
           <include name="setup"/>
+          <include name="Get_In_Touch_1_button"/>
+          <include name="OurServices_Seamore_button"/>
           <include name="ourServices_MobileAppDevelopment_Menu"/>
         </methods>
       </class> <!-- Home_Page_Menu.Home_Menu_Body -->

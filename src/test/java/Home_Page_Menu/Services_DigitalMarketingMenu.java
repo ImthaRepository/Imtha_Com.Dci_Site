@@ -7,7 +7,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	@BeforeMethod
 	public void URL_Call() {
 		
-		driver.get("https://www.dotcominfoway.com/");
+		Url("https://www.dotcominfoway.com/");
 		info("URL Entered");
 		mouseOver(locatorXpath("//ul[@id='menu-main-menu']//a[text()='Services']"));
 		info("Mousehover to the Service Menu");
@@ -17,16 +17,16 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	
 	@Test(priority=1)
 	public void Performance_Marketing_services_SubMenu() throws InterruptedException  {
-		clickJS(locatorXpath("//li[@id='nav-menu-item-50744']//a[text()='Performance Marketing services']"));
+		clickJS(locatorXpath("//li[@id='nav-menu-item-57143']//a[text()='Performance Marketing Services']"));
 		info("Submenu clicked");
-		WaitUntilVisibleTitle("Performance Marketing services - Dot Com Infoway");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
-		String ExpectedTitle="Performance Marketing services - Dot Com Infoway";
+		String ExpectedTitle="Mobile App Marketing Agency, ASO, User Acquisition Services";
 		String ExpectedURL="https://www.dotcominfoway.com/performance-marketing-services/";
 		Assert(ActualTitle, ExpectedTitle);
 		Assert(ActualURL, ExpectedURL);
 		info("Performance Marketing services Sub Menu Validated");
+		// Performance Marketing services - Dot Com Infoway
 	 }
 	@Test(priority=2)
 	public void SaaS_Marketing_SubMenu() throws InterruptedException  {

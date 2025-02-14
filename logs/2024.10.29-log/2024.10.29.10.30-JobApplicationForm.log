@@ -1,0 +1,15 @@
+2024-10-29 10:30:54,838 INFO  Forms_Validation - Job Application Menu clicked
+2024-10-29 10:30:57,994 INFO  Forms_Validation - Name Field Validated
+2024-10-29 10:30:58,083 INFO  Forms_Validation - Email Field Validated
+2024-10-29 10:30:59,180 INFO  Forms_Validation - phone number field validated
+2024-10-29 10:31:05,830 INFO  Forms_Validation - Select Post is Validated
+2024-10-29 10:31:08,090 INFO  Forms_Validation - Location Field is Validated
+2024-10-29 10:31:11,415 INFO  Forms_Validation - Search Engine Field is Validated
+2024-10-29 10:31:13,194 INFO  Forms_Validation - Gender Field Vaidated
+2024-10-29 10:31:34,678 INFO  Forms_Validation - Year of Experience Field is Validated
+2024-10-29 10:31:39,240 INFO  Forms_Validation - Month of experience Field is Validated
+2024-10-29 10:31:39,293 INFO  Forms_Validation - Highest Qualification field is validated
+2024-10-29 10:31:39,432 INFO  Forms_Validation - Key Skills field is validated
+2024-10-29 10:31:39,473 INFO  Forms_Validation - Current Designation field is validated
+2024-10-29 10:31:39,515 INFO  Forms_Validation - Current Location Field is validated
+2024-10-29 10:31:39,515 INFO  Forms_Validation - Job Allication Form Validated

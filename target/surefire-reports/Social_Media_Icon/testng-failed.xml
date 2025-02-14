@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Social_Media_Icon]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="chrome"/>
+  <parameter name="browser" value="edge"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -9,9 +9,14 @@
     <classes>
       <class name="Home_Page_Menu.Social_Media_Icons_Footer">
         <methods>
+          <include name="Youtube_Icon"/>
+          <include name="Linkedin_Icon"/>
           <include name="tearDown"/>
           <include name="URL_Call"/>
           <include name="setup"/>
+          <include name="Instagram_Icon"/>
+          <include name="Facebook_Icon"/>
+          <include name="Pinterest_Icon"/>
           <include name="Twitter_Icon"/>
         </methods>
       </class> <!-- Home_Page_Menu.Social_Media_Icons_Footer -->

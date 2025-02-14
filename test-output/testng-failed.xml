@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Home_Page_Menu.Social_Media_Icons_Footer">
+      <class name="Home_Page_Menu.Home_Menu_Body">
         <methods>
+          <include name="URl_Call"/>
+          <include name="Footer"/>
           <include name="setup"/>
-          <include name="URL_Call"/>
-          <include name="Instagram_Icon"/>
         </methods>
-      </class> <!-- Home_Page_Menu.Social_Media_Icons_Footer -->
+      </class> <!-- Home_Page_Menu.Home_Menu_Body -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

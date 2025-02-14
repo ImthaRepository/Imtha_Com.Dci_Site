@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Header_Menu]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="edge"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -10,11 +10,10 @@
       <class name="Home_Page_Menu.Header_Menu_Header">
         <methods>
           <include name="URL_Call"/>
-          <include name="Blog_Menu"/>
-          <include name="Contact_Telephone_Icon_Menu"/>
-          <include name="Portfolio_Menu"/>
           <include name="tearDown"/>
           <include name="setup"/>
+          <include name="Logo"/>
+          <include name="Home_Menu"/>
         </methods>
       </class> <!-- Home_Page_Menu.Header_Menu_Header -->
     </classes>

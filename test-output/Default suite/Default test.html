@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>6/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Wed Jan 08 11:03:59 IST 2025</td>
+<td>Started on:</td><td>Fri Feb 14 17:55:37 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>48 seconds (48997 ms)</td>
+<tr><td>Total time:</td><td>62 seconds (62911 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,16 +76,31 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Instagram_Icon()'><b>Instagram_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td><div><pre>java.lang.AssertionError: expected [Dot Com Infoway (@dotcominfowaydci) • Instagram photos and videos] but found [Page couldn&apos;t load • Instagram]
-	at org.testng.Assert.fail(Assert.java:111)
-	at org.testng.Assert.failNotEquals(Assert.java:1578)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-	at org.testng.Assert.assertEquals(Assert.java:132)
-	at org.testng.Assert.assertEquals(Assert.java:656)
-	at org.testng.Assert.assertEquals(Assert.java:666)
-	at Base_Setup.Base_Code_Configuration.Assert(Base_Code_Configuration.java:318)
-	at Home_Page_Menu.Social_Media_Icons_Footer.Instagram_Icon(Social_Media_Icons_Footer.java:121)
+<td title='Home_Page_Menu.Home_Menu_Body.Footer()'><b>Footer</b><br>Test class: Home_Page_Menu.Home_Menu_Body</td>
+<td><div><pre>org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.3&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [02fd4fea1f1b7f879b3b540165330fa7, findElement {using=id, value=footer}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\RAMPRA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54486}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54486/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 02fd4fea1f1b7f879b3b540165330fa7
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at Home_Page_Menu.Home_Menu_Body.Footer(Unknown Source)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
@@ -112,16 +127,31 @@ function toggleAllBoxes() {
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1929284175", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1929284175'><pre>java.lang.AssertionError: expected [Dot Com Infoway (@dotcominfowaydci) • Instagram photos and videos] but found [Page couldn&apos;t load • Instagram]
-	at org.testng.Assert.fail(Assert.java:111)
-	at org.testng.Assert.failNotEquals(Assert.java:1578)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-	at org.testng.Assert.assertEquals(Assert.java:132)
-	at org.testng.Assert.assertEquals(Assert.java:656)
-	at org.testng.Assert.assertEquals(Assert.java:666)
-	at Base_Setup.Base_Code_Configuration.Assert(Base_Code_Configuration.java:318)
-	at Home_Page_Menu.Social_Media_Icons_Footer.Instagram_Icon(Social_Media_Icons_Footer.java:121)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1340051218", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1340051218'><pre>org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
+System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.3&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [02fd4fea1f1b7f879b3b540165330fa7, findElement {using=id, value=footer}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\RAMPRA~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54486}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54486/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 02fd4fea1f1b7f879b3b540165330fa7
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at Home_Page_Menu.Home_Menu_Body.Footer(Unknown Source)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
@@ -149,47 +179,8 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 </pre></div></td>
-<td>4</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
-</table><p>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td><b>Attribute(s)</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Whatsapp_Icon()'><b>Whatsapp_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td></td>
-<td>14</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
-<tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Facebook_Icon()'><b>Facebook_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td></td>
-<td>3</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
-<tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Youtube_Icon()'><b>Youtube_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td></td>
-<td>4</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
-<tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Pinterest_Icon()'><b>Pinterest_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td></td>
-<td>4</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
-<tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Twitter_Icon()'><b>Twitter_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td></td>
-<td>4</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
-<tr>
-<td title='Home_Page_Menu.Social_Media_Icons_Footer.Linkedin_Icon()'><b>Linkedin_Icon</b><br>Test class: Home_Page_Menu.Social_Media_Icons_Footer</td>
-<td></td>
-<td>2</td>
-<td>Home_Page_Menu.Social_Media_Icons_Footer@6f4a47c7</td></tr>
+<td>60</td>
+<td>Home_Page_Menu.Home_Menu_Body@5db6b9cd</td></tr>
 </table><p>
 </body>
 </html>

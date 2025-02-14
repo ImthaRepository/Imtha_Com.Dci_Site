@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Services_SubMenu]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="edge"/>
+  <parameter name="browser" value="firefox"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -12,8 +12,7 @@
           <include name="tearDown"/>
           <include name="setup"/>
           <include name="URL_Call"/>
-          <include name="Wallet_Integration_Service_SubMenu"/>
-          <include name="Managed_Services_SubMenu"/>
+          <include name="Mobile_App_Marketing_Agency_SubMenu"/>
         </methods>
       </class> <!-- Home_Page_Menu.Header_Services_Submenu -->
     </classes>

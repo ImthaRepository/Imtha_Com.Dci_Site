@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FooterMenu]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="edge"/>
+  <listeners>
+    <listener class-name="Utilities.Report_Generation_Final"/>
+  </listeners>
+  <test thread-count="5" name="DCI_Site_Functional_Testing(failed)" verbose="0">
+    <classes>
+      <class name="Home_Page_Menu.Home_Page_Footer_Menu">
+        <methods>
+          <include name="Blockchain_Development_Menu"/>
+          <include name="Job_Enquiry_Apply_Here_Menu"/>
+          <include name="tearDown"/>
+          <include name="ICO_Marketing_Menu"/>
+          <include name="setup"/>
+          <include name="URL_Call"/>
+        </methods>
+      </class> <!-- Home_Page_Menu.Home_Page_Footer_Menu -->
+    </classes>
+  </test> <!-- DCI_Site_Functional_Testing(failed) -->
+</suite> <!-- Failed suite [FooterMenu] -->

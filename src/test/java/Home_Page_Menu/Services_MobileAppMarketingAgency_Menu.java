@@ -6,14 +6,15 @@ import org.testng.annotations.Test;
 public class Services_MobileAppMarketingAgency_Menu extends Base_Class{
 	
 	@BeforeMethod
-	public void URL_Call() {
+	public void URL_Call() throws InterruptedException {
 		
 		driver.get("https://www.dotcominfoway.com/");
 		info("URL Entered");
 		mouseOver(locatorXpath("//ul[@id='menu-main-menu']//a[text()='Services']"));
 		info("Mousehover to the Service Menu");
-		MouseOverJS(locatorXpath("//li[@id='accordion-menu-item-13041']//a[text()='Mobile App Marketing Agency']"));
+		mouseOver(locatorXpath("//li[@id='nav-menu-item-57025']//a[text()='Mobile App Marketing Agency']"));
 		info("Mousehover to the Mobile App Marketing Agency Submenu");
+		sleep(2000);
 	}
 	
 	@Test(priority=1)
@@ -113,7 +114,7 @@ public class Services_MobileAppMarketingAgency_Menu extends Base_Class{
 		Assert(ActualURL, ExpectedURL);
 		info("Mobile App Ads Campaign Management Sub Menu Validated");
 	 }
-	
+
 	@Test(priority=8)
 	public void Mobile_Games_Marketing_SubMenu() throws InterruptedException  {
 		clickJS(locatorXpath("//li[@id='nav-menu-item-37723']//a[text()='Mobile Games Marketing']"));

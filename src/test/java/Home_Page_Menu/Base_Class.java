@@ -14,9 +14,9 @@ public class Base_Class extends Base_Code_Configuration{
 	
   public Report_Generation_Final report;
 
-@Parameters("browser")
+ @Parameters("browser")
  @BeforeClass
-	 public void setup(String browser) {
+	public void setup(String browser) {
 		  
 	    //String browser="chrome";
 						
@@ -38,7 +38,7 @@ public class Base_Class extends Base_Code_Configuration{
 	}
 
 
-  @AfterClass
+ @AfterClass
 	public void tearDown() {	
 	      closeAllWindows();
 	}

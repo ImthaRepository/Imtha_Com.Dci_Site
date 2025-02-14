@@ -1,7 +1,6 @@
 package Form_Filling_Test;
 
 import java.awt.AWTException;
-
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import Home_Page_Menu.Base_Class;
@@ -98,35 +97,36 @@ info("Budget Field is Validated");
 
 @Test(priority=3)
 public void QuickConsultationForm() throws InterruptedException {
-    MouseOverJS(locatorId("wpforms-49667-field_10"));
+   // MouseOverJS(locatorId("wpforms-49667-field_10"));
+    MouseOverJS(locatorXpath("//h2[text()='Book a Quick Consultation']"));
     sleep(1000);
 
 //Name	
-    sendKeys(locatorId("wpforms-49667-field_1"), "Imtha Tester");
+    sendKeys(locatorId("wpforms-55259-field_23"), "Imtha Tester");
     info("Name Field Validated");
 
 //Email
-    sendKeys(locatorXpath("//input[@id='wpforms-49667-field_3']"), "Tesing@ymail.com");
+    sendKeys(locatorId("wpforms-55259-field_24"), "Tesing@ymail.com");
     info("Email Field Validated");
  
 //Select interested
-	forLoop(multipleelements("//select[@id='wpforms-49667-field_7']//option"),"//select[@id='wpforms-49667-field_7']//option", 2, 500);
+	forLoop(multipleelements("//select[@id='wpforms-55259-field_9']//option"),"//select[@id='wpforms-55259-field_9']//option", 2, 500);
 	info("Select Interest is Validated");
 	
 //Phone Number	
-    sendKeys(locatorId("wpforms-49667-field_8"), "9677871606");
+    sendKeys(locatorId("wpforms-55259-field_8"), "9677871606");
     sleep(1000);
 
 //Select Budget	
-    forLoop(multipleelements("//select[@id='wpforms-49667-field_9']//option"),"//select[@id='wpforms-49667-field_9']//option", 2, 500);
+    forLoop(multipleelements("//select[@id='wpforms-55259-field_32']//option"),"//select[@id='wpforms-55259-field_32']//option", 2, 500);
     info("Budget Field is Validated");
 
 //Requirement Text field
-    sendKeys(locatorId("wpforms-49667-field_10"), "This message is for Testing purpose .So Kindly Ignore this Message");
+    sendKeys(locatorId("wpforms-55259-field_25"), "This message is for Testing purpose .So Kindly Ignore this Message");
     info("Requirement Field is validated");
     
 //submit Button
-    /*click(locatorXpath("//button[@id='wpforms-submit-49667']"));
+    /*click(locatorXpath("//button[@id='wpforms-submit-55259' and text()='Submit']"));
     info("submit button clicked");*/
     
     info("Quick Consultation form Validated");
@@ -136,7 +136,7 @@ public void QuickConsultationForm() throws InterruptedException {
 @Test(priority=4)
 public void JobApplicationForm() throws InterruptedException, AWTException {
 	sleep(2000);
-    clickJS(locatorXpath("//a[text()='Apply Here']"));
+    clickJS(locatorXpath("//a[text()='  Apply Here']"));
     info("Job Application Menu clicked");
     sleep(3000);
 
@@ -213,7 +213,7 @@ public void JobApplicationForm() throws InterruptedException, AWTException {
 @Test(priority=5)
 public void SendMessageForm() throws InterruptedException {
 
-    mouseOver(locatorId("nav-menu-item-44607"));
+    mouseOver(locatorId("nav-menu-item-57564"));
     info("Moved to Home Element");
     WaitUntilVisibleLocator("//div[@class='widget-visible']");
     mouseOver(locatorXpath("//div[@class='widget-visible']"));

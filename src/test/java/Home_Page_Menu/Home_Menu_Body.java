@@ -1,16 +1,292 @@
 package Home_Page_Menu;
 
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import javax.imageio.ImageIO;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+import ru.yandex.qatools.ashot.AShot;
+import ru.yandex.qatools.ashot.Screenshot;
+import ru.yandex.qatools.ashot.comparison.ImageDiff;
+import ru.yandex.qatools.ashot.comparison.ImageDiffer;
+
 
 public class Home_Menu_Body extends  Base_Class{
+
+	
 @BeforeMethod
-public void URl_Call() {
+  public void URl_Call() {
 	
 	Url("https://www.dotcominfoway.com/");
 	info("URL Entered");
+   }
+
+@Test (priority = 1)
+public void AI_Case_Study_button() {
+	mouseOver(locatorId("nav-menu-item-57564"));
+  info("Moved to Home Element");
+	WaitUntilVisibleLocator("//h3[text()='AI Case Study']");
+	clickJS(locatorXpath("//h3[text()='AI Case Study']"));
+	info("AI Case Study clicked");
+	WaitUntilVisibleTitle("AI Solutions, IT Consulting, Digital Marketing & Expertise - Dot Com Infoway");
+	String ActualURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="AI Solutions, IT Consulting, Digital Marketing & Expertise - Dot Com Infoway";
+	String ExpectedURL="https://www.dotcominfoway.com/#case-study";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualURL, ExpectedURL);
+	info("AI Case button Validated");
+}	
+
+@Test (priority = 2)
+  public void Get_A_Free_Consultation() throws InterruptedException, IOException {
+	mouseOver(locatorId("nav-menu-item-57564"));
+    info("Moved to Home Element");
+	WaitUntilVisibleLocator("//a[text()='Get a free consultation']");
+	clickJS(locatorXpath("//a[text()='Get a free consultation']"));
+	info("Get A Free Consultation clicked");
+	WaitUntilVisible(locatorXpath("//label[text()='Your Name ']"));
+	BufferedImage expectedimage = ImageIO.read(new File(projectPath()+"\\Reference_Screenshot\\Get a free consultaion form.png"));
+	Screenshot imageshot = new AShot().takeScreenshot(driver);
+	BufferedImage actualimage = imageshot.getImage();
+
+	ImageDiffer imgdiff=new ImageDiffer();
+	ImageDiff diff=imgdiff.makeDiff(expectedimage, actualimage);
+	
+	if (diff.hasDiff()==true) {
+		print("Image are not Same");
+		BufferedImage showdiff=diff.getMarkedImage();
+		ImageIO.write(showdiff, "png", new File(projectPath()+"\\Reference_Screenshot\\Get a free consultaion form failure.png"));
+		AssertFail();
+	} else {
+		print("Images are same");
+		info("Get A Free Consultation button Validated");
+	}
+
+  }	
+ 
+@Test (priority = 3)
+  public void LatestBolg_ViewAll_button() {
+	mouseOver(locatorId("nav-menu-item-57564"));
+    info("Moved to Home Element");
+    mouseOver(locatorXpath("//a[text()='View All']"));
+	WaitUntilVisibleLocator("//a[text()='View All']");
+	clickJS(locatorXpath("//a[text()='View All']"));
+	info("View all button clicked");
+	WaitUntilVisibleTitle("Dot Com Infoway – Latest Technology, Web Development and SEO Blog, News, Updates and Tips");
+	String ActualURL=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Dot Com Infoway – Latest Technology, Web Development and SEO Blog, News, Updates and Tips";
+	String ExpectedURL="https://www.dotcominfoway.com/blog/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualURL, ExpectedURL);
+	info("Latest Bolg ViewAll button Validated");
+ }	
+@Test (priority=4)
+ public void Mobile_App_Development_Icon()  {
+	mouseOver(locatorXpath("(//strong[text()='Mobile App Development']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	clickJS(locatorXpath("(//strong[text()='Mobile App Development']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	info("Mobile App development arrow icon clicked");
+	WaitUntilVisibleLocator("//h1[text()='Mobile App Development Agency']");
+	String ActualUrl=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Mobile App Development Agency, App Development Company - DCI";
+	String ExpectedUrl="https://www.dotcominfoway.com/mobile-application-development/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualUrl, ExpectedUrl);
+	info("Mobile App Development arrow icon Validated");
 }
 
+
+@Test (priority=5)
+public void Digital_Marketing_Icon() {
+	mouseOver(locatorXpath("(//strong[text()='Digital Marketing']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	clickJS(locatorXpath("(//strong[text()='Digital Marketing']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	info("Digital Marketing arrow icon clicked");
+	WaitUntilVisibleTitle(("Digital Marketing Agency, Online Marketing Solutions - Dot Com Infoway"));
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Digital Marketing Agency, Online Marketing Solutions - Dot Com Infoway";
+	String ActualUrl=getUrl();
+	String ExpectedUrl="https://www.dotcominfoway.com/internet-marketing/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualUrl, ExpectedUrl);
+	info("Digital Marketing arrow icon Validated");
+	}
+
+@Test (priority=6)
+public void Mobile_App_Marketing_Icon() {
+	mouseOver(locatorXpath("(//strong[text()='Mobile App Marketing']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	clickJS(locatorXpath("(//strong[text()='Mobile App Marketing']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	info("Mobile App Marketing Arrow icon clicked");
+	WaitUntilVisibleTitle("Mobile App Marketing Agency, ASO, User Acquisition Services");
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Mobile App Marketing Agency, ASO, User Acquisition Services";
+	String ActualUrl=getUrl();
+	String ExpectedUrl="https://www.dotcominfoway.com/mobile-application-development/mobile-apps-marketing/";
+	Assert(ActualUrl, ExpectedUrl);
+	Assert(ActualTitle, ExpectedTitle);
+	info("Mobile App Marketing  arrow icon Validated");
+	}
+
+@Test (priority=7)
+public void Hire_Our_Dedicated_Developers_Icon() {
+	mouseOver(locatorXpath("(//strong[text()='Hire Our Dedicated Developers']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	clickJS(locatorXpath("(//strong[text()='Hire Our Dedicated Developers']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+    info("Hire our Dedicated developer Icon clicked");
+    WaitUntilVisibleLocator("//h1[text()='Hire Our Dedicated Developers']");
+	String ActualUrl=getUrl();
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Hire Dedicated Developers, Remote Web & Mobile App Developers";
+	String ExpectedUrl="https://www.dotcominfoway.com/hire-our-dedicated-developers/";
+	Assert(ActualTitle, ExpectedTitle);
+	Assert(ActualUrl, ExpectedUrl);
+	info("Hire Our Didicated Developers Sub Menu Validated");
+	}
+
+@Test (priority=8)
+public void Web_Development_Icon()  {
+	clickJS(locatorXpath("(//strong[text()='Web Development']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+    info("Web development icon clicked");
+    WaitUntilVisibleTitle("Web Development Company, Website Design & Development Services");
+   	String ActualTitle=getTitle();
+   	String ExpectedTitle="Web Development Company, Website Design & Development Services";
+   	String ActualUrl=getUrl();
+	String ExpectedUrl="https://www.dotcominfoway.com/web-development/";
+	Assert(ActualUrl, ExpectedUrl);
+   	Assert(ActualTitle, ExpectedTitle);
+   	info("Web development arrow icon Validated");
+
+	}
+
+@Test (priority=9)
+public void GIS_Services_Icon()  {
+	clickJS(locatorXpath("(//strong[text()='GIS Service ']/ancestor::div[@class='wpb_wrapper vc_column-inner']//img)[2]"));
+	info("GIS Service arrow icon clicked");
+	WaitUntilVisibleTitle("Industry-Leading GIS Services for Business Insights");
+	String ActualTitle=getTitle();
+	String ExpectedTitle="Industry-Leading GIS Services for Business Insights";
+	String AcutualUrl=getUrl();
+	String ExpectedUrl="https://www.dotcominfoway.com/gis-services/";
+	Assert(AcutualUrl, ExpectedUrl);
+	Assert(ActualTitle, ExpectedTitle);
+	info("GIS Services arrow icon Validated");
+	}
+
+@Test (priority = 10)
+  public void Header() throws IOException, InterruptedException  {
+	
+	BufferedImage expectedimage = ImageIO.read(new File(projectPath()+"\\Reference_Screenshot\\Header.png"));
+	File header = locatorId("header").getScreenshotAs(OutputType.FILE);
+	BufferedImage actualimage = ImageIO.read(header);
+	ImageDiffer imgdiff=new ImageDiffer();
+	ImageDiff diff=imgdiff.makeDiff(expectedimage, actualimage);
+	
+	if (diff.hasDiff()==true) {
+		print("Image are not Same");
+		BufferedImage showdiff=diff.getMarkedImage();
+		ImageIO.write(showdiff, "png", new File(projectPath()+"\\Reference_Screenshot\\Header alignment failure.png"));
+		AssertFail();
+	} else {
+		print("Images are same");
+		info("Header panel alignment Veified");
+	}
+
+  }	
+
+@Test (priority = 11)
+ public void Header_Freeze() throws IOException, InterruptedException  {
+	mouseOver(locatorXpath("//h2[text()='Smart AI Solutions for Even']"));
+	sleep(2000);
+	WaitUntilVisibleLocator("//div[@class='header-main sticky change-logo']");
+	BufferedImage expectedimage1= ImageIO.read(new File(projectPath()+"\\Reference_Screenshot\\Freezed Header.png"));
+	File header = locatorXpath("//header//div[@class='header-main sticky change-logo']//div[@class='container']").getScreenshotAs(OutputType.FILE);
+	BufferedImage actualimage = ImageIO.read(header);
+	ImageDiffer imgdiff=new ImageDiffer();
+	ImageDiff diff=imgdiff.makeDiff(expectedimage1, actualimage);
+		if (diff.hasDiff()==true) {
+			print("Image are not Same");
+			BufferedImage showdiff=diff.getMarkedImage();
+			ImageIO.write(showdiff, "png", new File(projectPath()+"\\Reference_Screenshot\\Freezed Header alignment failure.png"));
+			AssertFail();
+		} else {
+			print("Images are same");
+			info("Freezed Header panel alignment Veified");
+
+	    }
+	
+ 
+ }	
+
+ @Test (priority = 12)
+ public void Footer() throws IOException, InterruptedException  {
+	 sleep(3000);
+	//MouseOverJS(locatorId("footer"));
+	 JavascriptExecutor js = (JavascriptExecutor) driver;
+	 WebElement element = driver.findElement(By.id("footer"));  // Replace with your element locator
+
+	 // Scroll the element into view and adjust the scroll position to avoid the sticky header
+	 js.executeScript("window.scrollTo(0, arguments[0].getBoundingClientRect().top - 100);", element);
+
+	// ScreenShotElement(locatorId("footer"),"Footer2");
+
+
+
+	WaitUntilVisibleLocator("//div[@id='footer']");
+	BufferedImage expectedimage= ImageIO.read(new File(projectPath()+"\\Reference_Screenshot\\Footer.png"));
+	File footer = locatorId("footer").getScreenshotAs(OutputType.FILE);
+	BufferedImage actualimage = ImageIO.read(footer);
+	ImageDiffer imgdiff=new ImageDiffer();
+	ImageDiff diff=imgdiff.makeDiff(expectedimage, actualimage);
+		if (diff.hasDiff()==true) {
+			print("Image are not Same");
+			BufferedImage showdiff=diff.getMarkedImage();
+			ImageIO.write(showdiff, "png", new File(projectPath()+"\\Reference_Screenshot\\Footer alignment failure.png"));
+			info("Footer Alignment Mismatch");
+			AssertFail();
+		} else {
+			print("Images are same");
+			info("Footer alignment Veified");
+
+	    }
+
+ }	
+
+/*
+@Test (priority = 2)
+public void Get_A_Free_Consultation() throws InterruptedException, IOException {
+	mouseOver(locatorId("nav-menu-item-57564"));
+  info("Moved to Home Element");
+	WaitUntilVisibleLocator("//a[text()='Get a free consultation']");
+	clickJS(locatorXpath("//a[text()='Get a free consultation']"));
+	info("Get A Free Consultation clicked");
+	sleep(5000);
+	BufferedImage expectedimage = ImageIO.read(new File(projectPath()+"\\Reference_Screenshot\\Get a free consultaion form.png"));
+	Screenshot imageshot = new AShot().takeScreenshot(driver);
+	BufferedImage actualimage = imageshot.getImage();
+
+	ImageDiffer imgdiff=new ImageDiffer();
+	ImageDiff diff=imgdiff.makeDiff(expectedimage, actualimage);
+	
+	if (diff.hasDiff()==true) {
+		System.out.println("Image are not Same");
+		BufferedImage showdiff=diff.getMarkedImage();
+		ImageIO.write(showdiff, "png", new File(projectPath()+"\\Reference_Screenshot\\Get a free consultaion form failure.png"));
+		AssertFail();
+	} else {
+		print("Images are same");
+		info("Get A Free Consultation button Validated");
+	}
+
+}	
+
+/*
+ 
+ 
 @Test (priority = 1)
 public void Get_In_Touch_1_button() {
 	mouseOver(locatorId("nav-menu-item-44607"));
@@ -285,7 +561,7 @@ public void ourServices_WebDevelopmentServices_Menu() {
 	Assert(ActualTitle, ExpectedTitle);
 	info("Our Services Web development services Menu Validated");
 }
-
+*/
 
 
  

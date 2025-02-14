@@ -12,7 +12,7 @@ public class Services_HireOurDedicatedDevelopers extends Base_Class{
 		mouseOver(locatorXpath("//ul[@id='menu-main-menu']//a[text()='Services']"));
 		info("Mousehover to the Service Menu");
 		mouseOver(locatorXpath("//li[@id='nav-menu-item-34285']//a[text()='Hire Our Dedicated Developers']"));
-		info("Hire Our Dedicated Developers Submenu");
+		info(" MouseOver to Hire Our Dedicated Developers Submenu");
 	}
 	
 	@Test(priority=1)

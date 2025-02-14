@@ -9,7 +9,7 @@
     <classes>
       <class name="Home_Page_Menu.Services_DigitalMarketingMenu">
         <methods>
-          <include name="SaaS_Marketing_SubMenu"/>
+          <include name="Performance_Marketing_services_SubMenu"/>
           <include name="tearDown"/>
           <include name="setup"/>
           <include name="URL_Call"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Services_MobileAppMarketingAgency_Submenu.xml]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="edge"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -9,11 +9,14 @@
     <classes>
       <class name="Home_Page_Menu.Services_MobileAppMarketingAgency_Menu">
         <methods>
+          <include name="Mobile_Pre_Launch_Activities_SubMenu"/>
+          <include name="Mobile_Games_Marketing_SubMenu"/>
           <include name="URL_Call"/>
-          <include name="Mobile_App_Ads_Campaign_Management_SubMenu"/>
-          <include name="iPhone_Apps_Marketing_SubMenu"/>
           <include name="tearDown"/>
           <include name="setup"/>
+          <include name="Mobile_App_Market_Research_SubMenu"/>
+          <include name="Mobile_App_Growth_Marketing_SubMenu"/>
+          <include name="Mobile_App_Prototype_SubMenu"/>
         </methods>
       </class> <!-- Home_Page_Menu.Services_MobileAppMarketingAgency_Menu -->
     </classes>

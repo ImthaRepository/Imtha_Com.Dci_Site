@@ -16,9 +16,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Properties;
 import java.util.Set;
-
 import javax.imageio.ImageIO;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
