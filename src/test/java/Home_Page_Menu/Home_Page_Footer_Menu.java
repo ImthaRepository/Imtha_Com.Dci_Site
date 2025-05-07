@@ -286,10 +286,10 @@ public void Conversion_Rate_Optimization_Services_Menu() {
 public void  Performance_Marketing_Services_Menu() {
 	click(locatorXpath("//div[@class='textwidget custom-html-widget']//a[text()=' Performance Marketing Services']"));
 	info("Performance Marketing Services Menu clicked");
-	WaitUntilVisibleTitle("Mobile App Marketing Agency, ASO, User Acquisition Services");
+	WaitUntilVisibleTitle("Best Performance Marketing Agency in India | ROI-Driven Marketing Solutions");
 	String ActualPageURL=getUrl();
 	String ActualTitle=getTitle();
-	String ExpectedTitle="Mobile App Marketing Agency, ASO, User Acquisition Services";
+	String ExpectedTitle="Best Performance Marketing Agency in India | ROI-Driven Marketing Solutions";//Mobile App Marketing Agency, ASO, User Acquisition Services
 	String ExpectedPageURL="https://www.dotcominfoway.com/performance-marketing-services/";
 	Assert(ActualTitle, ExpectedTitle);
 	Assert(ActualPageURL, ExpectedPageURL);

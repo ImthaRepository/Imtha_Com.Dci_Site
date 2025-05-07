@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Home_Page_Body]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="chrome"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -9,22 +9,13 @@
     <classes>
       <class name="Home_Page_Menu.Home_Menu_Body">
         <methods>
-          <include name="ourServices_EnterpriseAppDevelopment_Menu"/>
-          <include name="ourServices_UIorUXDesign_Menu"/>
-          <include name="Get_In_Touch_2_button"/>
-          <include name="ExploreMore_button"/>
-          <include name="ourServices_DigitalMarketingServices_Menu"/>
-          <include name="tearDown"/>
+          <include name="Header"/>
+          <include name="Header_Freeze"/>
           <include name="URl_Call"/>
-          <include name="ourServices_WebDevelopmentServices_Menu"/>
-          <include name="ourServices_DedicatedDevelopers_Menu"/>
-          <include name="ourServices_IoTDevelopment_Menu"/>
-          <include name="ourServices_MobileAppMarketing_Menu"/>
-          <include name="Get_In_Touch_3_button"/>
+          <include name="tearDown"/>
+          <include name="Footer"/>
           <include name="setup"/>
-          <include name="Get_In_Touch_1_button"/>
-          <include name="OurServices_Seamore_button"/>
-          <include name="ourServices_MobileAppDevelopment_Menu"/>
+          <include name="Get_A_Free_Consultation"/>
         </methods>
       </class> <!-- Home_Page_Menu.Home_Menu_Body -->
     </classes>

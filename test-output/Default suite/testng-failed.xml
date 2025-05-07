@@ -6,6 +6,7 @@
       <class name="Home_Page_Menu.Home_Menu_Body">
         <methods>
           <include name="URl_Call"/>
+          <include name="tearDown"/>
           <include name="Footer"/>
           <include name="setup"/>
         </methods>

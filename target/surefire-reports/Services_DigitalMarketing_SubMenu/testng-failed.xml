@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Services_DigitalMarketing_SubMenu]" guice-stage="DEVELOPMENT" verbose="0">
-  <parameter name="browser" value="firefox"/>
+  <parameter name="browser" value="chrome"/>
   <listeners>
     <listener class-name="Utilities.Report_Generation_Final"/>
   </listeners>
@@ -9,7 +9,7 @@
     <classes>
       <class name="Home_Page_Menu.Services_DigitalMarketingMenu">
         <methods>
-          <include name="Performance_Marketing_services_SubMenu"/>
+          <include name="Inbound_marketing_services_SubMenu"/>
           <include name="tearDown"/>
           <include name="setup"/>
           <include name="URL_Call"/>

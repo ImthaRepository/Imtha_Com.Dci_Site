@@ -21,7 +21,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 		info("Submenu clicked");
 		String ActualURL=getUrl();
 		String ActualTitle=getTitle();
-		String ExpectedTitle="Mobile App Marketing Agency, ASO, User Acquisition Services";
+		String ExpectedTitle="Best Performance Marketing Agency in India | ROI-Driven Marketing Solutions";//Mobile App Marketing Agency, ASO, User Acquisition Services
 		String ExpectedURL="https://www.dotcominfoway.com/performance-marketing-services/";
 		Assert(ActualTitle, ExpectedTitle);
 		Assert(ActualURL, ExpectedURL);
@@ -164,7 +164,7 @@ public class Services_DigitalMarketingMenu extends Base_Class {
 	 
 		@Test(priority=12)
 		public void Inbound_marketing_services_SubMenu() throws InterruptedException  {
-			clickJS(locatorXpath("//li[@id='nav-menu-item-34265']//a[text()='Inbound marketing services']"));
+			clickJS(locatorXpath("//li[@id='nav-menu-item-34265']//a[text()='Inbound Marketing Services']"));
 			info("Submenu clicked");
 			WaitUntilVisibleTitle("Inbound Marketing Agency, Inbound Marketing Services For B2B");
 			String ActualURL=getUrl();

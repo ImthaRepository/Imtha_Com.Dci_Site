@@ -1,0 +1,52 @@
+2025-05-05 09:54:57,785 INFO  Forms_Validation - Job Application Menu clicked
+2025-05-05 09:55:00,978 INFO  Forms_Validation - Name Field Validated
+2025-05-05 09:55:01,086 INFO  Forms_Validation - Email Field Validated
+2025-05-05 09:55:03,072 INFO  Forms_Validation - phone number field validated
+2025-05-05 09:55:06,706 INFO  Forms_Validation - Select Post is Validated
+2025-05-05 09:55:08,391 INFO  Forms_Validation - Location Field is Validated
+2025-05-05 09:55:10,539 INFO  Forms_Validation - Search Engine Field is Validated
+2025-05-05 09:55:11,825 INFO  Forms_Validation - Gender Field Vaidated
+2025-05-05 09:55:21,098 INFO  Forms_Validation - Year of Experience Field is Validated
+2025-05-05 09:55:23,055 INFO  Forms_Validation - Month of experience Field is Validated
+2025-05-05 09:55:23,145 INFO  Forms_Validation - Highest Qualification field is validated
+2025-05-05 09:55:23,377 INFO  Forms_Validation - Key Skills field is validated
+2025-05-05 09:55:23,465 INFO  Forms_Validation - Current Designation field is validated
+2025-05-05 09:55:23,570 INFO  Forms_Validation - Current Location Field is validated
+2025-05-05 09:55:23,571 INFO  Forms_Validation - Job Allication Form Validated
+2025-05-05 09:55:24,239 INFO  Forms_Validation - URL Entered
+2025-05-05 09:55:24,769 INFO  Forms_Validation - Moved to Home Element
+2025-05-05 09:55:26,489 INFO  Forms_Validation - Online is Clicked
+2025-05-05 09:55:27,304 INFO  Forms_Validation - Frame Closer Vaidated
+2025-05-05 09:55:27,703 INFO  Forms_Validation - Online is Clicked
+2025-05-05 09:55:27,705 INFO  Forms_Validation - Moved to Home Element
+2025-05-05 09:55:28,366 INFO  Forms_Validation - Name Field Validated
+2025-05-05 09:55:28,514 INFO  Forms_Validation - Email Field Validated
+2025-05-05 09:55:28,664 INFO  Forms_Validation - Phone Field Validated
+2025-05-05 09:55:31,104 INFO  Forms_Validation - Interested service validated
+2025-05-05 09:55:31,380 INFO  Forms_Validation - Requirement field Validated
+2025-05-05 09:55:31,628 INFO  Forms_Validation - Frame Closer Vaidated
+2025-05-05 09:55:31,629 INFO  Forms_Validation - Send Message form Validated
+2025-05-05 09:55:32,277 INFO  Forms_Validation - URL Entered
+2025-05-05 09:55:36,351 INFO  Forms_Validation - Submenu clicked
+2025-05-05 09:55:38,453 INFO  Forms_Validation - Name of the company Field Validated
+2025-05-05 09:55:41,355 INFO  Forms_Validation - Number of employees is Validated
+2025-05-05 09:55:44,152 INFO  Forms_Validation - Company Type is Validated
+2025-05-05 09:55:46,906 INFO  Forms_Validation - Industry Experience Field is Validated
+2025-05-05 09:55:54,741 INFO  Forms_Validation - TEch Expertise is Validated
+2025-05-05 09:55:54,841 INFO  Forms_Validation - Tax ID Field Validated
+2025-05-05 09:55:55,990 INFO  Forms_Validation - Registration Number Field Validated
+2025-05-05 09:55:56,190 INFO  Forms_Validation - Address Field Validated
+2025-05-05 09:55:56,321 INFO  Forms_Validation - City Field Validated
+2025-05-05 09:55:56,442 INFO  Forms_Validation - Website Field Validated
+2025-05-05 09:55:56,588 INFO  Forms_Validation - Portfolio URL Field Validated
+2025-05-05 09:55:56,717 INFO  Forms_Validation - Name of the Contact person Field Validated
+2025-05-05 09:55:56,828 INFO  Forms_Validation - Job title of contact person Field Validated
+2025-05-05 09:55:56,953 INFO  Forms_Validation - Contact Number Field Validated
+2025-05-05 09:55:57,077 INFO  Forms_Validation - Whatsapp  Field Validated
+2025-05-05 09:55:57,225 INFO  Forms_Validation - Email field Field Validated
+2025-05-05 09:55:57,375 INFO  Forms_Validation - Bank Details Field Validated
+2025-05-05 09:55:57,491 INFO  Forms_Validation - Any Relevant Certificate Field Validated
+2025-05-05 09:55:57,603 INFO  Forms_Validation - Decision Maker Field Validated
+2025-05-05 09:55:57,753 INFO  Forms_Validation - Decision maker Email Field Validated
+2025-05-05 09:55:58,017 INFO  Forms_Validation - Brief Description about the company Field Validated
+2025-05-05 09:55:58,017 INFO  Forms_Validation - Vendor Registration form Validated

@@ -134,6 +134,13 @@ public void onTestFailure(ITestResult tr) {
 		logger.createNode("Screenshots").fail("Screenshot").addScreenCaptureFromPath(imgPath);
 	} catch (Exception e) {
 		logger.log(Status.FAIL, e.getMessage());
+	}
+	
+	try {
+		String failedImgPath=System.getProperty("user.dir")+"\\Reference_Screenshot\\"+tr.getName()+"_failure.png";
+		logger.createNode("Failure Screenshots").fail("Screenshot").addScreenCaptureFromPath(failedImgPath);
+	} catch (Exception e) {
+		logger.log(Status.FAIL, e.getMessage());
 		
 	}
 

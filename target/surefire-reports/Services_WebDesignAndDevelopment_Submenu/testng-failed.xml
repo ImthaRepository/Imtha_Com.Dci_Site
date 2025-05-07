@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Services_WebDesignAndDevelopment_Submenu]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="Utilities.Report_Generation_Final"/>
+  </listeners>
+  <test thread-count="5" name="Functional Test(failed)" verbose="0">
+    <classes>
+      <class name="Home_Page_Menu.Services_Web_DesignAndDevelopment_Submenu">
+        <methods>
+          <include name="Content_Management_System_Menu"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="URL_Call"/>
+          <include name="UI_And_UX_Design_Menu"/>
+        </methods>
+      </class> <!-- Home_Page_Menu.Services_Web_DesignAndDevelopment_Submenu -->
+    </classes>
+  </test> <!-- Functional Test(failed) -->
+</suite> <!-- Failed suite [Services_WebDesignAndDevelopment_Submenu] -->

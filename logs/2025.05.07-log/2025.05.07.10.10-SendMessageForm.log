@@ -1,0 +1,33 @@
+2025-05-07 10:12:13,779 INFO  Forms_Validation - Moved to Home Element
+2025-05-07 10:12:15,406 INFO  Forms_Validation - Online is Clicked
+2025-05-07 10:12:16,776 INFO  Forms_Validation - Name Field Validated
+2025-05-07 10:12:17,075 INFO  Forms_Validation - Email Field Validated
+2025-05-07 10:12:17,185 INFO  Forms_Validation - Phone Field Validated
+2025-05-07 10:12:19,564 INFO  Forms_Validation - Interested service validated
+2025-05-07 10:12:19,800 INFO  Forms_Validation - Requirement field Validated
+2025-05-07 10:12:20,001 INFO  Forms_Validation - Frame Closer Vaidated
+2025-05-07 10:12:20,002 INFO  Forms_Validation - Send Message form Validated
+2025-05-07 10:12:20,534 INFO  Forms_Validation - URL Entered
+2025-05-07 10:12:21,724 INFO  Forms_Validation - Submenu clicked
+2025-05-07 10:12:23,805 INFO  Forms_Validation - Name of the company Field Validated
+2025-05-07 10:12:26,777 INFO  Forms_Validation - Number of employees is Validated
+2025-05-07 10:12:29,783 INFO  Forms_Validation - Company Type is Validated
+2025-05-07 10:12:32,703 INFO  Forms_Validation - Industry Experience Field is Validated
+2025-05-07 10:12:41,216 INFO  Forms_Validation - TEch Expertise is Validated
+2025-05-07 10:12:41,347 INFO  Forms_Validation - Tax ID Field Validated
+2025-05-07 10:12:42,509 INFO  Forms_Validation - Registration Number Field Validated
+2025-05-07 10:12:42,668 INFO  Forms_Validation - Address Field Validated
+2025-05-07 10:12:42,763 INFO  Forms_Validation - City Field Validated
+2025-05-07 10:12:42,849 INFO  Forms_Validation - Website Field Validated
+2025-05-07 10:12:42,964 INFO  Forms_Validation - Portfolio URL Field Validated
+2025-05-07 10:12:43,047 INFO  Forms_Validation - Name of the Contact person Field Validated
+2025-05-07 10:12:43,126 INFO  Forms_Validation - Job title of contact person Field Validated
+2025-05-07 10:12:43,279 INFO  Forms_Validation - Contact Number Field Validated
+2025-05-07 10:12:43,378 INFO  Forms_Validation - Whatsapp  Field Validated
+2025-05-07 10:12:43,504 INFO  Forms_Validation - Email field Field Validated
+2025-05-07 10:12:43,631 INFO  Forms_Validation - Bank Details Field Validated
+2025-05-07 10:12:43,714 INFO  Forms_Validation - Any Relevant Certificate Field Validated
+2025-05-07 10:12:43,793 INFO  Forms_Validation - Decision Maker Field Validated
+2025-05-07 10:12:43,909 INFO  Forms_Validation - Decision maker Email Field Validated
+2025-05-07 10:12:44,135 INFO  Forms_Validation - Brief Description about the company Field Validated
+2025-05-07 10:12:44,135 INFO  Forms_Validation - Vendor Registration form Validated
